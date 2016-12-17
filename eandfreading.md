@@ -13,7 +13,7 @@ GDiuqgwefi
 GDiuqgwefi
 
 ## Engine Not a Camera
-![Bubble](websiteimages/imagecamera.jpg)
+![Bubble](websiteimages/imagecamera.jpg){: width="350px"}.
 
 GDiuqgwefi
 
@@ -28,7 +28,7 @@ GDiuqgwefi
 GDiuqgwefi
 
 ## Superforecasting
-![Bubble](websiteimages/super.jpg){: width="400px"}.
+![Bubble](websiteimages/super.jpg){: width="350px"}.
 
 GDiuqgwefi
 
