@@ -1,48 +1,48 @@
 ## Welcome to Economics and Finance Reading Reviews
 
-Youu will Find
+You will Find
 
 ## Origins of Wealth
 ![Bubble](websiteimages/OofW.jpg)
 
-### GDiuqgwefi
+GDiuqgwefi
 
 ## Complexity Econonmics
 ![Bubble](websiteimages/complex.jpg)
 
-### GDiuqgwefi
+GDiuqgwefi
 
 ## Engine Not a Camera
 ![Bubble](websiteimages/imagecamera.jpg)
 
-### GDiuqgwefi
+GDiuqgwefi
 
 ## Forecast
 ![Bubble](websiteimages/forecast.jpg)
 
-### GDiuqgwefi
+GDiuqgwefi
 
 ## Mis(Behaving)
 ![Bubble](websiteimages/misbevman.jpg)
 
-### GDiuqgwefi
+GDiuqgwefi
 
 ## Superforecasting
 ![Bubble](websiteimages/super.jpg)
 
-### GDiuqgwefi
+GDiuqgwefi
 
 ## Why Markets 
 ![Bubble](websiteimages/whymarkets.gif)
 
-### GDiuqgwefi
+GDiuqgwefi
 
 ## South Sea Bubble
 ![Bubble](websiteimages/south.gif)
 
-### GDiuqgwefi
+GDiuqgwefi
 
 ## Why Things Fail
 ![Bubble](websiteimages/fail.jpg)
 
-### GDiuqgwefi
+GDiuqgwefi
