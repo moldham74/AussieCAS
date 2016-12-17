@@ -28,7 +28,7 @@ GDiuqgwefi
 GDiuqgwefi
 
 ## Superforecasting
-![Bubble](websiteimages/super.jpg)
+![Bubble](websiteimages/super.jpg){: width="18px"}.
 
 GDiuqgwefi
 
