@@ -25,7 +25,8 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-For my [Economics and Finance List](https://moldham74.github.io/AussieABM/eandfreading.html).
+For my [Economics and Finance List](https://moldham74.github.io/AussieABM/eandfreading.html)
+
 For my  [Other Reading List](https://moldham74.github.io/AussieABM/other reading.html).
 
 ### Jekyll Themes
