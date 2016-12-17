@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+## Welcome to Economics and Finance Reading Reviews
 
-You can use the [editor on GitHub](https://github.com/moldham74/AussieABM/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Youu will Find
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Origins of Wealth
+![Bubble](websiteimages/OofW.jpg)
 
-### Markdown
+### GDiuqgwefi
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Complexity Econonmics
+![Bubble](websiteimages/complex.jpg)
 
-```markdown
-Syntax highlighted code block
+### GDiuqgwefi
 
-# Header 1
-## Header 2
-### Header 3
+## Engine Not a Camera
+![Bubble](websiteimages/imagecamera.jpg)
 
-- Bulleted
-- List
+### GDiuqgwefi
 
-1. Numbered
-2. List
+## Forecast
+![Bubble](websiteimages/forecast.jpg)
 
-**Bold** and _Italic_ and `Code` text
+### GDiuqgwefi
 
-[Link](url) and ![Image](src)
-```
+## Mis(Behaving)
+![Bubble](websiteimages/misbevman.jpg)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### GDiuqgwefi
 
-### Jekyll Themes
+## Superforecasting
+![Bubble](websiteimages/super.jpg)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/moldham74/AussieABM/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### GDiuqgwefi
 
-### Support or Contact
+## Why Markets 
+![Bubble](websiteimages/whymarkets.gif)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### GDiuqgwefi
+
+## South Sea Bubble
+![Bubble](websiteimages/south.gif)
+
+### GDiuqgwefi
+
+## Why Things Fail
+![Bubble](websiteimages/fail.jpg)
+
+### GDiuqgwefi
