@@ -1,15 +1,16 @@
 # About Me
 
-You can use the [editor on GitHub](https://github.com/moldham74/AussieABM/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am a Computational Social Science Ph.D. student in the Department of Computational and Data Sciences at George Mason University. Matthew was awarded the prestigious George Mason University, four-year Presidential scholarship. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Matthew’s main research focus is applying computational social science to financial markets and understanding the drivers of innovations. This research has produced two forthcoming publications relating to influence of investor networks on the behavior of stock markets. Beyond this, Matthew has used an agent-based model to explore the strategies used in the Battle of Britain and is looking to explore the application of agent-based modeling to sports analytics.
+
+ 
+
+Advisor: Professor Axtell
 
 # Background
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+He graduated from the University of Tasmania with a Bachelors of Economics with honors in 1995 and received his Chartered Financial Analyst designation in 2012. Prior to joining the Ph.D. program Matthew earned a Masters of Arts in Interdisciplinary Studies with a concentration in Computational Social Science at George Mason, following a career as a buy-side equities analyst in Australia.
 
 # Header 1
 ## Education
@@ -23,15 +24,4 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/moldham74/AussieABM/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
