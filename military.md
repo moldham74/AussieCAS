@@ -1,5 +1,7 @@
 # Military
 
+![BattleofBritain](websiteimages/bball.jpg)
+
 Agent-based models (ABMs) have been sucessfully across multiple fields. The military has been one such field. While some of the applications are kept underwarps, this page provides a brief run down on the know appications of ABMs to military appications. I also provide a brief run down on my contribution to the field. A lot of the information on this page came from Prof. Ken Comer's GMU CSS739 Agent-based Models: Military Applications course that was taught in the Fall of 2016
 
 Why are ABMs applicaable to military conflicts?
