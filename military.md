@@ -37,6 +37,6 @@ Matched all historical outcomes
 
 Strategic error: British believed their main risk was that the enemy would disperse ▫Sent out half their force on armed recce  ▫Badly underestimating enemy, British failed to entrench ▫Believed (based on experience) in the shock value of large force armed with breech-loading rifles •Remaining force failed to circle the wagons and form a “laager”, remained in a line •Result: complete annihilation of the British force at Isandlwana, retreat of columns
 
-### Battle of Isandlwana Britian
+### Battle of Britian
 
 
