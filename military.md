@@ -1,37 +1,31 @@
-# Miltary
+# Military
 
-You can use the [editor on GitHub](https://github.com/moldham74/AussieABM/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Agent-based models (ABMs) have been sucessfully across multiple fields. The military has been one such field. While some of the applications are kept underwarps, this page provides a brief run down on the know appications of ABMs to military appications. I also provide a brief run down on my contribution to the field. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A lot of the information on this page came from Prof. Ken Comer's GMU CSS739 Agent-based Models: Military Applications course that was taught in the Fall of 2016
 
-### Markdown
+## Military Application
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The need for and use of simulation to understand future combat predates the computer 
+  Naval War College wargaming in 1930s •
+  
+Ilachinski, Artificial War, cited 66 times since 2011 (Google Scholar) 
+  
+ Numerous links between combat simulation and ABMs in the 1990s  
+  ▫ISAAC (Irreducible Semi-Autonomous Adaptive Combat) Model (1997) 
+  ▫EINSTein (Enhanced ISAAC Neural Simulation Toolkit) Model (2000) 
+   ▫Pythagoras agent-based combat model (c. 2002)
+   
+Died out but some use
 
-```markdown
-Syntax highlighted code block
+## Historical Military Application
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+Battle of Trafalgar
 
-1. Numbered
-2. List
+Complex model including wind, two kinds of combat, four classes of ships, varying crew efficiency, etc. ▫Both area winds and local winds (affected by sails) •Ships can “escape” of surrender based on their levels of casualties ▫With enough damage, ships can be sunk •Sails can be degraded, limiting mobility 
 
-**Bold** and _Italic_ and `Code` text
+Matched all historical outcomes 
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/moldham74/AussieABM/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Battle of Isandlwana:
+Strategic error: British believed their main risk was that the enemy would disperse ▫Sent out half their force on armed recce  ▫Badly underestimating enemy, British failed to entrench ▫Believed (based on experience) in the shock value of large force armed with breech-loading rifles •Remaining force failed to circle the wagons and form a “laager”, remained in a line •Result: complete annihilation of the British force at Isandlwana, retreat of columns
