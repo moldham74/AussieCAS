@@ -9,7 +9,9 @@ I have also provided the DOI for the publciation so you track down the official 
 ```markdown
 # The Impact of Dividends in an Investor Network
 
-http://ae2016.it/participants/20-27/the-impact-of-dividends-in-an-investor-network
+In this paper I 
+
+A copy of the paper can be [found here](https://ae2016.it/participants/20-27/the-impact-of-dividends-in-an-investor-network)
 
 
 
@@ -19,9 +21,11 @@ http://ae2016.it/participants/20-27/the-impact-of-dividends-in-an-investor-netwo
 
 # Other fields 
 ```markdown
-# Header 1
+# To Big Wing, or Not to Big Wing, Now an Answer
 
 
 
-[Link](url) and ![Image](src)
+A copy of the paper can be [found here](http://link.springer.com/chapter/10.1007/978-3-319-46882-2_5)
+
+
 ```
