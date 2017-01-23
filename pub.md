@@ -11,7 +11,7 @@ I have also provided the DOI for the publciation so you track down the official 
 
 In this paper I 
 
-A copy of the paper can be [found here](https://ae2016.it/participants/20-27/the-impact-of-dividends-in-an-investor-network)
+A copy of the paper can be [found here] http://ae2016.it/participants/20-27/the-impact-of-dividends-in-an-investor-network 
 
 
 
