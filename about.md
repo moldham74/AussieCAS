@@ -1,12 +1,12 @@
 # About Me
 
-I am a Computational Social Science Ph.D. student in the Department of Computational and Data Sciences at George Mason University. Matthew was awarded the prestigious George Mason University, four-year Presidential scholarship. 
+I am a Computational Social Science Ph.D. student in the [Department of Computational and Data Sciences](https://cos.gmu.edu/cds/academic-programs/) at George Mason University. Matthew was awarded the prestigious George Mason University, four-year Presidential scholarship. 
 
 Matthew’s main research focus is applying computational social science to financial markets and understanding the drivers of innovations. This research has produced two forthcoming publications relating to influence of investor networks on the behavior of stock markets. Beyond this, Matthew has used an agent-based model to explore the strategies used in the Battle of Britain and is looking to explore the application of agent-based modeling to sports analytics.
 
  
 
-Advisor: Professor Axtell
+Advisor: [Professor Axtell](http://www.css.gmu.edu/~axtell/Rob/Home.html)
 
 # Background
 
