@@ -47,7 +47,3 @@ GDiuqgwefi
 
 GDiuqgwefi
 
-## Why Most Things Fail
-![Bubble](websiteimages/fail.jpg)
-
-GDiuqgwefi
