@@ -17,6 +17,11 @@ GDiuqgwefi
 
 GDiuqgwefi
 
+## Misbehaving
+![Mis](websiteimages/MisBehave.jpg)
+
+GDiuqgwefi
+
 ## Forecast
 ![Bubble](websiteimages/forecast.jpg)
 
