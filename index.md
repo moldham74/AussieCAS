@@ -4,7 +4,15 @@ Congratualtions on finding your way to my website. I hope that you will find its
 
 ## What is complexity and why is it relevant?
 
-## Why use agent-based model?
+## What are agent-based models?
+
+A modelling technique, where the model is made up of automisouse decision making entities. These are agenets and take the form of anthing from a particle to government. Commonly a person. The collection of the agents then becomes the system.
+
+## Why use agent-based models?
+
+When the agents interact with other agents and their environment an emergent property should occur. The principle is to make the rules as simple of possible yet generate the emergent behavior at the the sysytem or macro level.
+
+This sort of analyis is not feasible with traditonal techniques.
 
 ## What you will find
 
