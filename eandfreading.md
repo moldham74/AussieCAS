@@ -2,17 +2,17 @@
 
 You will Find
 
-## Origins of Wealth
+## The Origin of Wealth
 ![Bubble](websiteimages/OofW.jpg)
 
 GDiuqgwefi
 
-## Complexity Econonmics
+## Complexity and the Econonmy
 ![Bubble](websiteimages/complex.jpg)
 
 GDiuqgwefi
 
-## Engine Not a Camera
+## An Engine not a Camera
 ![Bubble](websiteimages/imagecamera.jpg){: width="350px"}.
 
 GDiuqgwefi
@@ -22,7 +22,7 @@ GDiuqgwefi
 
 GDiuqgwefi
 
-## Mis(Behaving)
+## The Mis(behavior) of Markets
 ![Bubble](websiteimages/misbevman.jpg)
 
 GDiuqgwefi
@@ -32,17 +32,17 @@ GDiuqgwefi
 
 GDiuqgwefi
 
-## Why Markets 
+## Why Stock Markets Crash 
 ![Bubble](websiteimages/whymarkets.gif)
 
 GDiuqgwefi
 
-## South Sea Bubble
+## The First Crash
 ![Bubble](websiteimages/south.gif)
 
 GDiuqgwefi
 
-## Why Things Fail
+## Why Most Things Fail
 ![Bubble](websiteimages/fail.jpg)
 
 GDiuqgwefi
