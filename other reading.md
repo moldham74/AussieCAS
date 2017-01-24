@@ -9,13 +9,13 @@ You will Find
 ![score](websiteimages/score.jpg){: width="350px"}.
 
 ## Stumbling on Wins
-![stumble](websiteimages/stumbling.jpg)
+![stumble](websiteimages/stumbling.jpg){: width="350px"}.
 
 ## Positive Linking
-![linking](websiteimages/positive.jpg)
+![linking](websiteimages/positive.jpg){: width="350px"}.
 
 ## Why Most Things Fail
-![Bubble](websiteimages/fail.jpg)
+![Bubble](websiteimages/fail.jpg){: width="350px"}.
 
 ## Into the Black
-![Bubble](websiteimages/Intotheblack.jpg)
+![Bubble](websiteimages/Intotheblack.jpg){: width="350px"}.
