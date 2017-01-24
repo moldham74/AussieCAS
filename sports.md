@@ -10,12 +10,13 @@ Alamar and Metrotra [here](http://analytics-magazine.org/beyond-moneyball-the-ra
 
 # My contributions
 
-## Increasing competitiveness in Formula One
+## Completed works
+
+### Increasing competitiveness in Formula One
 
 ## Works in the pipleine
 
 ### ABM meets NBA
-
 
 ### Straky golfers
 
