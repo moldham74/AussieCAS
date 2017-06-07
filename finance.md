@@ -17,7 +17,11 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 
+```
+
 ![Bubble](websiteimages/mktOutput.gif)
+
+```markdown
 
 ### Header 3
 
