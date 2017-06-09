@@ -1,5 +1,8 @@
 # About Me
 
+_"There is only one to avoid criticism: Do nothing, say nothing, and be nothing"_- Aristotle 
+
+
 I am a Computational Social Science Ph.D. student in the [Department of Computational and Data Sciences](https://cos.gmu.edu/cds/academic-programs/) at George Mason University. Matthew was awarded the prestigious George Mason University, four-year Presidential scholarship. 
 
 ![me](websiteimages/Picture1.png)
