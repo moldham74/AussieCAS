@@ -8,11 +8,13 @@ A truer respresentation of the return characteristics of financial markets, as s
 
 According to Johnson, Jefferies and Hui (2003), for a system to be considered complex, it must contain some, if not all, of the following: feedback, non-stationarity, many interacting agents, adaption, evolution, single realization, and it must be an open system. This position is consistent with the views of Sornette (2014), who concluded that to understand stock market returns, one must consider: imitation, herding, self-organized co-operativity, and positive feedbacks. Farmer et al., (2012) concluded that if one considers financial markets as a complex system, then one must accept that their outcomes are the result of an emergent process based on the self-organized behavior of independently acting, self-motivated individuals.
 
+
 ### The S&P 500 2007 - 2010
 
 ![Market](websiteimages/mktOutput.gif)
 
-The above animation plots the course of the S&P 500 as it heads towards, and then recovers from the Global Financial Crisis (GFC). The 
+
+The above animation plots the course of the S&P 500 as it heads towards, and then recovers from the Global Financial Crisis (GFC). As mentioned above it was this "unexpected" and "unexplained" collapse that has provided the impetus for the search for alternative analytical frameworks. In my journal articles 
 
 
 ![NetworkCartoon](websiteimages/cartoonOutput.gif)
