@@ -44,7 +44,7 @@ Syntax highlighted code block
 ### Header 2 
 
 ```
-![Bubble](websiteimages/mktOutput.gif)
+![Bubble](websiteimages/LivingOutput.gif)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
