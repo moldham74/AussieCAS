@@ -36,7 +36,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-![Bubble](websiteimages/cartoonOutput.gif)
+![NetworkCartoon](websiteimages/cartoonOutput.gif)
 
 
 
@@ -44,7 +44,7 @@ Syntax highlighted code block
 ### Header 2 
 
 ```
-![Bubble](websiteimages/LivingOutput.gif)
+![LivingMarket](websiteimages/LivingOutput.gif)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
