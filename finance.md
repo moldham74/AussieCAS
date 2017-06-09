@@ -16,19 +16,16 @@ According to Johnson, Jefferies and Hui (2003), for a system to be considered co
 
 The above animation plots the course of the S&P 500 as it heads towards, and then recovers from the Global Financial Crisis (GFC). As mentioned above it was this "unexpected" and "unexplained" collapse that has provided the impetus for the search for alternative analytical frameworks. In my [journal articles](papers/  ), I have implemented and report on an ABM that was capable of explaining why a market main behavior in such a manner. The key aspect aspect of the model being the ability of investors to consider the actions of their neighbors, thus point to another important field of research - network science.
 
+### Markets and Networks
 Network science   --- explaining in CAS. While the actual network configuration of investors may be all but impossible to uncover, a more obvious network is the one formed between investors and companies. This is know as a bipartite network and an example of how the network might behave is illustrated below. Links in the network are formed (removed) when an investor makes an investment (divestment) in a company. There are many implications stemming from the dynamics involved in trading, including how investors are linked by similar holdings
 
 ![NetworkCartoon](websiteimages/cartoonOutput.gif)
 
+In my class project for CSS697 - Social Network Analysis, I managed to analysis the actual company x investor network for the S&P 500 and US instutional investors from 2007 to 2010. My findings can ber found [here](papers/  ). I presented the [findings](papers/) from the project at 2nd Workshop on Statistical Physics of Financial and Economic Networks satellie of the [NetSci2017](http://netsci2017.net/program/satellites) conference. 
+
+The key finding of the paper was that the density of the market moved in-line withe the index. The changes is the density can be seen in the diagram below, which shows how density of the company x investor network changed through time. An increasing density, being represented by a "darker" graph, and vice versa for a decline in density.
 
 ![LivingMarket](websiteimages/LivingOutput.gif)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/moldham74/AussieCAS/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
