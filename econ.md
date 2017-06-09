@@ -1,6 +1,8 @@
 # Complexity Economics
 
-_"You can't score a goal if you don't take a shot"_  - Johan Cruyff
+
+
+_"It is wiser to find out than to suppose"_ - Mark Twain 
 
 ![Wordmap](websiteimages/wordmap.jpeg)
 
