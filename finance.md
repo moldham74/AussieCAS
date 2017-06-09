@@ -7,19 +7,11 @@ You can use the [editor on GitHub](https://github.com/moldham74/AussieCAS/edit/m
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### The S&P 500 2007 - 2010
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-
-```
-
-![Bubble](websiteimages/mktOutput.gif)
+![Market](websiteimages/mktOutput.gif)
 
 ```markdown
 
