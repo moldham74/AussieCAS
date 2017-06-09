@@ -11,10 +11,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ![Market](websiteimages/mktOutput.gif)
 
-```markdown
+
 
 The above animation plots the course of the S&P 500 as it heads towards, and then recovers from the Global Financial Crisis (GFC).
-```
+
 
 ![NetworkCartoon](websiteimages/cartoonOutput.gif)
 
