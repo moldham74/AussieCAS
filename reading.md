@@ -1,30 +1,8 @@
 ## Reading
 
-You can use the [editor on GitHub](https://github.com/moldham74/AussieABM/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Over the years I have managed to get through a number of very interesting books that have helped open my mind and sharpen my research focus. The books are likely to fall into one of two catergoies: one, a book that demonstrates an "out of the box" theme, or two a book that provides meaningful insight into an important or series of important events. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+ 
 For my [Economics and Finance List](https://moldham74.github.io/AussieCAS/eandfreading.html)
 
 For my  [Other Reading List](https://moldham74.github.io/AussieCAS/other reading.html).
