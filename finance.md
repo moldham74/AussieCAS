@@ -1,5 +1,7 @@
 # Finance
 
+ ### _"You can have your own opinions. But you can't have your own facts"_ - Ricky Gervais
+
 ![Bubble](websiteimages/bubble.jpg)
 
 The behavior of financial market has frustrated, and continues to frustrate, investor and academics. The main bone of contention for me is that the Efficient Market Hypothesis (EMH) still underlies much of today's maianstrea theory and practices. Despite some empirical support for the EMH, and the models that utilize its assumptions, the reality of continued episodes of extreme volatility, booms, and crashes has led some to consider alternatives. The search for alternatives has gained further impetus following the crash in global markets in 2007, with considering financial markets as a complex adaptive system (CAS) proving to be a credible alternative.
