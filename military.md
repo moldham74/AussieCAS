@@ -1,6 +1,6 @@
 # Military
 
-_"In preparing for battle I have always found that plans are useless, but planning is indispensable"_ Dwight D. Eisenhower
+_"In preparing for battle I have always found that plans are useless, but planning is indispensable"_ - Dwight D. Eisenhower
 
 ![BattleofBritain](websiteimages/DSC_1028 (1).jpg)
 
