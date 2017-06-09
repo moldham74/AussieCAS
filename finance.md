@@ -2,18 +2,17 @@
 
 ![Bubble](websiteimages/bubble.jpg)
 
+The behavior of financial market has frustrated, and continues to frustrate, investor and academics. The main bone of contention for me is that the Efficient Market Hypothesis (EMH) still underlies much of today's maianstrea theory and practices. Despite some empirical support for the EMH, and the models that utilize its assumptions, the reality of continued episodes of extreme volatility, booms, and crashes has led some to consider alternatives. The search for alternatives has gained further impetus following the crash in global markets in 2007, with considering financial markets as a complex adaptive system (CAS) proving to be a credible alternative.
 
-You can use the [editor on GitHub](https://github.com/moldham74/AussieCAS/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+A truer respresentation of the return characteristics of financial markets, as summarized by Cont (2007) and Johnson, Jefferies, & Hui (2003), is that they demonstrate: excess volatility – the existence of large movements not supported by the arrival of new news; heavy tails – returns exhibit “heavy tails” or “fat tails” indicating returns deviate more than anticipated and do not follow a Gaussian distribution; volatility clustering – large changes are followed by further large changes; and volume/volatility clustering – trading volumes and volatility show the same type of long memory. In addition, Mandelbrot (1963) first provided evidence that returns may follow a very unique distribution, a  power law distribution, with Lux (2006) providing a detailed review of the empirical evidence supporting the existence of power laws in financial markets. For investors, the main implication of returns following a power law is that the risk of large losses is much higher than suggested by the EMH, and markets are more volatile. It is the existence of power law returns that provides the key insight that financial markets may operate as a complex system.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+According to Johnson, Jefferies and Hui (2003), for a system to be considered complex, it must contain some, if not all, of the following: feedback, non-stationarity, many interacting agents, adaption, evolution, single realization, and it must be an open system. This position is consistent with the views of Sornette (2014), who concluded that to understand stock market returns, one must consider: imitation, herding, self-organized co-operativity, and positive feedbacks. Farmer et al., (2012) concluded that if one considers financial markets as a complex system, then one must accept that their outcomes are the result of an emergent process based on the self-organized behavior of independently acting, self-motivated individuals.
 
 ### The S&P 500 2007 - 2010
 
 ![Market](websiteimages/mktOutput.gif)
 
-
-
-The above animation plots the course of the S&P 500 as it heads towards, and then recovers from the Global Financial Crisis (GFC).
+The above animation plots the course of the S&P 500 as it heads towards, and then recovers from the Global Financial Crisis (GFC). The 
 
 
 ![NetworkCartoon](websiteimages/cartoonOutput.gif)
