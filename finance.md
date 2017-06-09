@@ -14,17 +14,13 @@ According to Johnson, Jefferies and Hui (2003), for a system to be considered co
 ![Market](websiteimages/mktOutput.gif)
 
 
-The above animation plots the course of the S&P 500 as it heads towards, and then recovers from the Global Financial Crisis (GFC). As mentioned above it was this "unexpected" and "unexplained" collapse that has provided the impetus for the search for alternative analytical frameworks. In my [journal articles](papers/  ).
+The above animation plots the course of the S&P 500 as it heads towards, and then recovers from the Global Financial Crisis (GFC). As mentioned above it was this "unexpected" and "unexplained" collapse that has provided the impetus for the search for alternative analytical frameworks. In my [journal articles](papers/  ), I have implemented and report on an ABM that was capable of explaining why a market main behavior in such a manner. The key aspect aspect of the model being the ability of investors to consider the actions of their neighbors, thus point to another important field of research - network science.
 
+Network science   --- explaining in CAS. While the actual network configuration of investors may be all but impossible to uncover, a more obvious network is the one formed between investors and companies. This is know as a bipartite network and an example of how the network might behave is illustrated below. Links in the network are formed (removed) when an investor makes an investment (divestment) in a company. There are many implications stemming from the dynamics involved in trading, including how investors are linked by similar holdings
 
 ![NetworkCartoon](websiteimages/cartoonOutput.gif)
 
 
-
-```markdown 
-### Header 2 
-
-```
 ![LivingMarket](websiteimages/LivingOutput.gif)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
