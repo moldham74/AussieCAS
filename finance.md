@@ -1,6 +1,6 @@
 # Finance
 
-### _"You can have your own opinions. But you can't have your own facts"_ - Ricky Gervais
+_"You can have your own opinions. But you can't have your own facts"_ - Ricky Gervais
 
 ![Bubble](websiteimages/bubble.jpg)
 
