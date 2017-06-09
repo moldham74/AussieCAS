@@ -1,5 +1,7 @@
 # Complexity Economics
 
+_"You can't score a goal if you don't take a shot"_ - Johan Cruyff
+
 ![Wordmap](websiteimages/wordmap.jpeg)
 
 'Opinion
