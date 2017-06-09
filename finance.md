@@ -27,5 +27,4 @@ The key finding of the paper was that the density of the market moved in-line wi
 
 ![LivingMarket](websiteimages/LivingOutput.gif)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
