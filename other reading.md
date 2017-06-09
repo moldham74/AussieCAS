@@ -1,6 +1,6 @@
 ## Welcome to the collection of "other" book reviews 
 
-You will Find
+Here is the list of other books that I have found fasanating and insightful
 
 ## The Extra 2%
 ![2percent](websiteimages/Extra2.jpg){: width="350px"}.
