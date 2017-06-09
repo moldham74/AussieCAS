@@ -1,6 +1,6 @@
 ## Welcome to Economics and Finance Reading Reviews
 
-You will Find
+Below are the books that have been instrumental in guiding my thought process in terms of viewing finance and economics through a complex adaptive system (CAS) lense. The books are either a direct reference to a CAS or argue successfully that the neo-classical paradigm is flawed.
 
 ## The Origin of Wealth
 ![Bubble](websiteimages/OofW.jpg)
