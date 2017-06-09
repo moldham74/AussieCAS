@@ -8,7 +8,7 @@ I am have broken my reading list into an economics and finanace, and an other 'l
  
 The link for economics and finance list is [here](https://moldham74.github.io/AussieCAS/eandfreading.html).
 
-The link for other reading list is [here](https://moldham74.github.io/AussieCAS/otherreading.html).
+The link for other reading list is [here](https://moldham74.github.io/AussieCAS/other reading.html).
 
 Happy reading Matt.
 
