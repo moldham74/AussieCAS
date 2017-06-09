@@ -36,6 +36,16 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+![Bubble](websiteimages/mktOutput.gif)
+
+
+
+```markdown 
+### Header 2 
+
+```
+![Bubble](websiteimages/mktOutput.gif)
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
