@@ -36,7 +36,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-![Bubble](websiteimages/mktOutput.gif)
+![Bubble](websiteimages/cartoonOutput.gif)
 
 
 
