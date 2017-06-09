@@ -9,23 +9,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### The S&P 500 2007 - 2010
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ![Market](websiteimages/mktOutput.gif)
 
 ```markdown
 
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+The above animation plots the course of the S&P 500 as it heads towards, and then recovers from the Global Financial Crisis (GFC).
 ```
 
 ![NetworkCartoon](websiteimages/cartoonOutput.gif)
