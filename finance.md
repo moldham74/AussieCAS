@@ -14,7 +14,7 @@ According to Johnson, Jefferies and Hui (2003), for a system to be considered co
 ![Market](websiteimages/mktOutput.gif)
 
 
-The above animation plots the course of the S&P 500 as it heads towards, and then recovers from the Global Financial Crisis (GFC). As mentioned above it was this "unexpected" and "unexplained" collapse that has provided the impetus for the search for alternative analytical frameworks. In my journal articles 
+The above animation plots the course of the S&P 500 as it heads towards, and then recovers from the Global Financial Crisis (GFC). As mentioned above it was this "unexpected" and "unexplained" collapse that has provided the impetus for the search for alternative analytical frameworks. In my [journal articles](papers/  ).
 
 
 ![NetworkCartoon](websiteimages/cartoonOutput.gif)
