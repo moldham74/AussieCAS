@@ -5,12 +5,14 @@ Below are the books that have been instrumental in guiding my thought process in
 ## The Origin of Wealth
 ![Bubble](websiteimages/OofW.jpg)
 
+[Jason Potts](https://en.wikipedia.org/wiki/Jason_Potts)
+
 GDiuqgwefi
 
 ## Complexity and the Econonmy
 ![Bubble](websiteimages/complex.jpg)
 
-GDiuqgwefi
+[Krugman](http://www.pkarchive.org/cranks/legend.html)
 
 ## An Engine not a Camera
 ![Bubble](websiteimages/imagecamera.jpg){: width="350px"}.
@@ -40,7 +42,7 @@ GDiuqgwefi
 ## Why Stock Markets Crash 
 ![Bubble](websiteimages/whymarkets.gif)
 
-GDiuqgwefi
+Sornette is 
 
 ## The First Crash
 ![Bubble](websiteimages/south.gif)
