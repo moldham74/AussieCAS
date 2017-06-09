@@ -22,6 +22,9 @@ He graduated from the University of Tasmania with a Bachelors of Economics with 
 1. Numbered
 2. List
 
+
+![me](websiteimages/Picture1.png)
+
 **Bold** and _Italic_ and `Code` text
 
 
