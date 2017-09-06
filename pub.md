@@ -11,7 +11,9 @@ I have also provided the DOI for the publciation so you track down the official 
 
 In this paper I 
 
-A copy of the paper can be [found here](http://ae2016.it/participants/20-27/the-impact-of-dividends-in-an-investor-network). The paper will be published in an upcoming special issue of [Advances in Complex Systems (World Scientific)](http://www.worldscientific.com/worldscinet/acs).
+The paper will be published in an upcoming special issue of [Advances in Complex Systems (World Scientific)](http://www.worldscientific.com/worldscinet/acs).
+
+(http://doi.org/10.1142/S0219525917500072)
 
 
 
