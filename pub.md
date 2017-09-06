@@ -7,19 +7,12 @@ I have also provided the DOI for the publciation so you track down the official 
 
 # Finance and Economics 
  
-## The Impact of Dividends in an Investor Network
+## MARKET FLUCTUATIONS EXPLAINED BY DIVIDENDS AND INVESTOR NETWORKS
+The paper is published in special issue of [Advances in Complex Systems (World Scientific)](http://doi.org/10.1142/S0219525917500072).
+doi: 10.1142/S0219525917500072
 
-In this paper I 
-
-The paper will be published in an upcoming special issue of [Advances in Complex Systems (World Scientific)](http://www.worldscientific.com/worldscinet/acs).
-
-(http://doi.org/10.1142/S0219525917500072)
-
-
-
-
+The inability of investors and academics to consistently predict, and understand the be- havior of financial markets has forced the search for alternative analytical frameworks. Analyzing financial markets as complex systems is a framework that has demonstrated great promises, with the use of agent-based models (ABMs) and the inclusion of network science playing an important role in increasing the relevance of the framework. Using an artificial stock market created via an agent-based model (ABM), this paper provides significant insight into the mechanisms that drive the returns in financial markets, in- cluding periods of elevated prices and excess volatility. The paper demonstrates that the network topology that investors form and the dividend policy of firms significantly affect the behavior of the market. However, if investors have a bias to following their neighbors then the topology becomes redundant. By successfully addressing these issues this paper helps refine and shape a variety of additional research tasks for the use of ABMs in uncovering the dynamics of financial markets.
  
-
 # Other fields 
  
 ## To Big Wing, or Not to Big Wing, Now an Answer
