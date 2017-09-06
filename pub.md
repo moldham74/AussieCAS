@@ -7,7 +7,7 @@ I have also provided the DOI for the publciation so you track down the official 
 
 # Finance and Economics 
  
-## MARKET FLUCTUATIONS EXPLAINED BY DIVIDENDS AND INVESTOR NETWORKS
+## Market Fluctuations Explained by Dividends and Investor Networks
 The paper is published in special issue of [Advances in Complex Systems (World Scientific)](http://doi.org/10.1142/S0219525917500072).
 doi: 10.1142/S0219525917500072
 
