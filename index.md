@@ -5,6 +5,9 @@ Congratualtions on finding your way to my website. I hope that you will find it'
 The website is updated regualarly with new articles that I find and post on either my [Linkedin](https://www.linkedin.com/in/oldhamma) or [Twitter](https://twitter.com/maoldham74) sites.
 
 ## What are complex adaptive systems, and why are they important?
+A complex adaptive system (CAS) can be found anywhere from an ecological to an economic system. The key characteristics of these systems are that the agents within the system interact in a non-linear fashion with other agents, and their environment resulting in collective behavior. This is turn makesthe system non-predictable beyond a certain temporal window.
+
+ 
 
 
 ## Why study Computational Social Science?
