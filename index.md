@@ -20,8 +20,7 @@ A complex adaptive system (CAS) can be found anywhere from an ecological to an e
 
 Big part is emergence - Stable macro patterns arising from local interaction of individual entities
 
- 
-
+Complexity is not a theory but a movement in the sciences that studies how the interacting elements in a system create overall patterns, and how these overall patterns in turn cause the interacting elements to change or adapt.
 
 ## Why study Computational Social Science?
 Computational social science (CSS) is an emerging field at the intersection of social science, math, and computer science that utilizes numerical models to further our understanding of societies, markets, and human behavior. In contrast to traditional approaches to social science (e.g., inferential statistics, axiomatic modeling, or interviews), the numerical nature of the models present both unique opportunities and methodological challenges that will be discussed throughout the semester. For example, how do we introduce adaptive behavior into our models of human conflict and cooperation? Why are things as they are? How do we evaluate policies when decision makers are boundedly rational? The course addresses these questions drawing on recent advances in computational modeling and data science.
@@ -36,7 +35,6 @@ For a complex system	Behavior at one level may lead to a new entity emerging whi
 
 The model at the macro level does not have a set of equilibrium conditions and/or problems to solve for (noting that agents can have these)
 Method that allows analyst to create, analyze and experiment with artificial worlds populated by agents that interact in non-trivial ways and that constitutes their own environment <- need to understand and predict from the bottom up
-
 
 To explore how macro-patterns such as residential segregation, cultural norms, and social networks emerge from micro-behavior, we will discuss the bottom-up framework of agent-based modeling. A modelling technique, where the model is made up of automisouse decision making entities. These are agents and take the form of anything from a particle to government. Commonly a person. The collection of the agents then becomes the system. When the agents interact with other agents and their environment an emergent property should occur. The principle is to make the rules as simple of possible yet generate the emergent behavior at the the sysytem or macro level.
 
