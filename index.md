@@ -21,6 +21,6 @@ This sort of analyis is not feasible with traditonal techniques.
   *  *Economics:* There are rich pickings in the terms of treating the parts of the economy as a CAS. This section touches on the reason why this. In addition, I provide a examples of my work in the field;
   *  *Finance:* There has been considerable effort, and success, in analyzing financial markets as a CAS. I provide some of the brackground and outline my work in the area;
   *  *Sports:* As sports analytics continues its meteoric growth the availability of massive quanitities and enabled researchers to uncover that certain sports may be CASs. I highlight some of the papers and provide a outline to my soon to be released basketball agent-based model;
-  *  *Military Applications* : ABM has made a meaningful contribution to the defense sector. Here I touch on the backgrund and present my contribution to the field
+  *  *Military Applications:* ABM has made a meaningful contribution to the defense sector. Here I touch on the backgrund and present my contribution to the field
 * *Publications:* This page provides a link to the various works that I have had published; and
 * *Reading list:* Along my learning journey I have managed to come across a variety of great books. In this section I highlight the books I found the most interesting.
