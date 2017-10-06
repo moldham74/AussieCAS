@@ -17,6 +17,9 @@ GDiuqgwefi
 ## An Engine not a Camera
 ![Bubble](websiteimages/imagecamera.jpg){: width="350px"}.
 
+## The Myth of the Rational Market
+![Bubble](websiteimages/rational.jpg)
+
 GDiuqgwefi
 
 ## Misbehaving
