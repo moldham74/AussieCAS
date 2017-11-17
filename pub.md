@@ -15,7 +15,7 @@ The inability of investors and academics to consistently predict, and understand
 
 ## Introducing a Multi-Asset Stock Market to Test the Power of Investor Networks
 The paper will be published in the [Journal of Artificial Societies and Social Simulation)](http://jasss.soc.surrey.ac.uk/).
-doi: TBA
+doi: 10.18564/jasss.3497
 
 The behavior of financial markets has frustrated, and continues to frustrate, investors and academics. By utilizing a complex systems framework, researchers have discovered new fields of investigations that have provided meaningful insight into the behavior of financial markets. The use of agent-based models (ABMs) and the inclusion of network science have played an important role in increasing the relevance of the complex systems to financial markets. The challenge of how best to combine these new techniques to produce meaningful results that can be accepted by the broader community remains an issue. By implementing an artificial stock market that utilizes an Ising model based agent-based model (ABM), this paper provides insights into the mechanisms that drive the returns in financial markets, including periods of elevated prices and excess volatility. A key finding is that the network topology investors form significantly affects the behavior of the market, with the exception being if investors have a bias to following their neighbors, at which point the topology becomes redundant. The model also investigates the impact of introducing multiple risky assets, something that has been absent in previous attempts. By successfully addressing these issues this paper helps to refine and shape a variety of further research tasks for the use of ABMs in uncovering the dynamics of financial markets.
 
