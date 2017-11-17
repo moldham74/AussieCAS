@@ -27,3 +27,4 @@ The process of “creative destruction” involves any existing market structure
 
 The original hypothesis, as proposed by Van Valen (1973), was focused on evolutionary biology, with the key implication stating that due to the continuous and escalating actions of competitors within an ecosystem, organisms must continually evolve if they wish to survive. The direct relevance to the innovative policy of a firm is that its performance will depend on its ability to successfully react to the actions of its competitors. 
 
+### References
