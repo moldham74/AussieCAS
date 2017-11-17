@@ -4,12 +4,11 @@ _"In preparing for battle I have always found that plans are useless, but planni
 
 ![BattleofBritain](websiteimages/DSC_1028 (1).jpg)
 
-Agent-based models (ABMs) have been sucessfully across multiple fields. The military has been one such field. While some of the applications are kept underwarps, this page provides a brief run down on the know appications of ABMs to military appications. I also provide a brief run down on my contribution to the field. A lot of the information on this page came from Prof. Ken Comer's GMU CSS739 Agent-based Models: Military Applications course that was taught in the Fall of 2016
+Agent-based models (ABMs) have been sucessfully applied to multiple research fields. The application to military topic is one such field. While some of the applications are kept underwarps, this page provides a brief run down on the known appications of ABMs for military purposes. I also provide a brief run down on my contribution to the field. A lot of the information on this page came from Prof. Ken Comer's GMU CSS739 Agent-based Models: Military Applications course that was taught in the Fall of 2016.
 
-Why are ABMs applicaable to military conflicts?
+## Why are ABMs applicaable to military conflicts?
 
-Comabt particularly land combat, possess the characteristics of complex adaptive systems: combat forces are composed of a large number of nonlinearly interacting parts and are organized in a dynamic command-and-control network; local action, which often appears disordered, self-organizes into long-range order; military conflicts, by their nature, proceed far from equilibrium; military forces adapt to a changing combat environment; and there is no master “voice” that dictates the actions of every soldier (i.e., battlefield action is decentralized). Nonetheless, most modern “state of the art” military simulations ignore the self-organizing properties of combat
-
+Combat particularly land combat, possess the characteristics of a complex adaptive system (CAS). The following points are the justfication for this: combat forces are composed of a large number of nonlinearly interacting parts and are organized in a dynamic command-and-control network; local action, which often appears disordered, self-organizes into long-range order; military conflicts, by their nature, proceed far from equilibrium; military forces adapt to a changing combat environment; and there is no master “voice” that dictates the actions of every soldier (i.e., battlefield action is decentralized). Nonetheless, it appears that most modern “state of the art” military simulations ignore the self-organizing properties of combat, hence the limited use of ABMs.
 
 ## Real World Military Application
 
@@ -29,6 +28,7 @@ Ilachinski, Artificial War. .This book summarizes the results of a multiyear re
 Died out but some use
 
 ## Historical Military Application
+
 
 
 ### Battle of Trafalgar
