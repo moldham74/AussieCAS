@@ -14,13 +14,13 @@ Thus, far my research has produced two publications relating to influence of inv
 # Background
 If you are not that interested in reading the details here, you can check-out [my resume](  ), or my [Linkedin profile](https://www.linkedin.com/in/oldhamma).
 
-## Personal Background
+### Personal Background
 I was born on the great island of Tasmania, which sits to the south of mainland Australia. My people think not a lot happens in Tasmania but it was a great place to grow up. I made the big move to the mainland following the completion of my initial tertiary studies, and lived in Melbourne. The family and I then made the big move to Fairfax, Virginia in 2014 where I started my current studies.
 
-## Education
+### Education
 My academic career originally kicked off in Tasmania, where I attended the University of Tasmania and was awarded a Bachelors of Economics with honors in 1995. I then put myself through the [Chartered Financial Analyst program](https://www.cfainstitute.org/programs/cfaprogram/Pages/index.aspx), earning my charter designation in 2012. However, my desire to continue my learning and to gain greater insights in CAS saw me enrol in the Masters of Arts in Interdisciplinary Studies with a concentration in Computational Social Science at George Mason in 2014. I was subsequently awarded my degree in 2016.
 
-## Work Experience
+### Work Experience
 In bewteen my studies I have had exciting and varied professional career. After university I started work at Toyota Australia, and undertook numerous tasks including:
 
 - Bulleted
@@ -31,7 +31,7 @@ I then moved onto Ford Performance Vehicles where I helped running the sales and
 
 A career change then beckoned and I made the switch to Equity Trustees in 2006. Initially my work involved strategy planning, and implementations, including merger and acquisitions. I was then lucky enough to join the equities team, where I was a buy-side analyst for a number of years. It was during this period when searching for greater insights to help inform superior investment decisions that came across the complexity, and as the say the rest in history.
 
-## Eduational and Work Summary
+### Eduational and Work Summary
 
 - Computational Social Science PhD Program (Presidential Scholar)
 
