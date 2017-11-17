@@ -28,7 +28,7 @@ Computational social science (CSS) is an emerging field at the intersection of s
 CSS it is used as a language to formalize theory and empirical research to express, study and develop our understanding of social complexity not available elsewhere.	Framework that encompasses various computational and modelling tools that allow to either improve understand/make predictions about an issue.
 
 
-## What are Agent-based models, and why use them?
+## What are agent-based models, and why use them?
 From Herbert Simon - Adaptive systems are predisposed to simulation. Why? Do not need to identify all the inner parts if just interested in how these parts organize independently of all but a few properties of the individual components.
 
 For a complex system	Behavior at one level may lead to a new entity emerging which has new behavior and therefore needs a new class of model. CREATE A MODEL OF TARGET THAT IS SIMPLER TO STUDY THAN THE TARGET ITSELF 
