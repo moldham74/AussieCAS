@@ -33,11 +33,9 @@ A career change then beckoned and I made the switch to Equity Trustees in 2006. 
 
 ## Eduational and Work Summary
 
-- Computational Social Science PhD Program*
+- Computational Social Science PhD Program (Presidential Scholar)
 
 GEORGE MASON UNIVERSITY | Fairfax, VA |Expected Completion December 2018
-
-*Presidential Scholar
 
 - Master of Arts in Computational Social Science 
 
