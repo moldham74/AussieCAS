@@ -17,7 +17,7 @@ The link for economics and finance list is [here](https://moldham74.github.io/Au
 
 The link for my other reading list is [here](https://moldham74.github.io/AussieCAS/other%20reading.html).
 
-The link for the various referenced papers is [here](https://moldham74.github.io/AussieCAS/ResearchPaper.html)
+The link for the various referenced papers is [here](https://moldham74.github.io/AussieCAS/ResearchPapers.html)
 
 Happy reading Matt.
 
