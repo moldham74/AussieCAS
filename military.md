@@ -17,6 +17,8 @@ The use of simulation in the military is not anything new. The rationale for usi
   -  Germany's [Kriegspiel wargame](https://en.wikipedia.org/wiki/Kriegsspiel_(wargame)) that was developed in the 1812; and
   -  U.S. Naval War College wargaming in 1930s.
   
+Lanchester equations Lanchester developed a mathematical model addressing the implications of various combat scenarios, including directed fire. . However, problems that can arise when simulating combat situations using the Lanchester models are spatially and temporally homogenous, allowing for no variation in unit type, terrain or tactics, command or control, skill or doctrine. These assumptions appear inconsistent with modern warfare, which is ultimately dynamic and heterogeneous, thus the need for alternative approach exists.
+  
 With regard to the use of ABMs for the pruspose of combat simulation, numerous appeared in the 1990s, including;
    - ISAAC (Irreducible Semi-Autonomous Adaptive Combat) Model (1997) 
    - EINSTein (Enhanced ISAAC Neural Simulation Toolkit) Model (2000) 
@@ -26,19 +28,22 @@ Of these EINSTein, made the greatest contribution, summary of the project and it
 
 ## Historical Military Application
 
-While the benefits of ABMs have not been fully exploited by today's miliary, historians have used them to 
+While the benefits of ABMs have not been fully exploited by today's miliary, historians have used them to great effect to reconstruct militaray campaigns for the purpose of what went right and wrong for the combatants. Two examples inlcude
 
 ### Battle of Trafalgar
 
-Complex model including wind, two kinds of combat, four classes of ships, varying crew efficiency, etc. ▫Both area winds and local winds (affected by sails) •Ships can “escape” of surrender based on their levels of casualties ▫With enough damage, ships can be sunk •Sails can be degraded, limiting mobility 
+Trautteur implemented an ABM that analyzed the famous naval [Battle of Trafalgar](https://en.wikipedia.org/wiki/Battle_of_Trafalgar). Features of the model, which all highlight the utility of ABMs, included area winds and local winds, two kinds of combat, four classes of ships, varying crew efficiency, etc. The ships “escaped” or surrendered based on their levels of casualties. Damage also played a part with ships either sunk or their performance diminished.
 
-Matched all historical outcomes 
+The results agreed in a very strict way with historical data. A comparison between the computational model and Lanchester’s analytical model was also provided. In a key finding the forecasts from the Lanchester model were substantial different to the results obtained by the computational model - and the actual outcome. 
 
 ### Battle of Isandlwana
 
-Strategic error: British believed their main risk was that the enemy would disperse ▫Sent out half their force on armed recce  ▫Badly underestimating enemy, British failed to entrench ▫Believed (based on experience) in the shock value of large force armed with breech-loading rifles •Remaining force failed to circle the wagons and form a “laager”, remained in a line •Result: complete annihilation of the British force at Isandlwana, retreat of columns
+Scogings and Hawick provided a simulation of the [Battle of Isandlwana](https://en.wikipedia.org/wiki/Battle_of_Isandlwana) with considerable historical accuracy. Additionally, altered the inputs to demonstrate a plausible alternative to history. The histrorical interest in the battle is that the British made a number of stratgeic errors including, underestimating the enemy, and overestimating the effectiveness of their weapons. This lead to poor defensive tactics by the British, which eventually saw their annihilation in the battle and their forced retreat.
 
 ## My Contribution
+
+After being tasked with implementing an ABM with a military theme in CSS739, I combined my love of World War II (WWII) history, and my new found knowledge of military simulation techniques. The result was my awarding winning (winner of the best paper at the 16th MABs confernce) To [Big Wing, or Not to Big Wing, Now an Answer](https://link.springer.com/chapter/10.1007/978-3-319-46882-2_5) paper. For this paper I lucky enough to lean on the previous work of the [York Historical Warfare Analysis Group](http://www-users.york.ac.uk/~nm15/ynt/YHWAG.html).
+
 ### The Battle of Britian
 
 The Churchillian quote "Never, in the field of human conflict, was so much owed by so many to so few", encapsulates perfectly the heroics of Royal Air Force (RAF) Fighter Command (FC) during the Battle of Britain. Despite the undoubted heroics, questions remain about how FC employed the "so few". In particular, the question as to whether FC should have employed the "Big Wing" tactics, as per 12 Group, or implement the smaller wings as per 11 Group, remains a source of much debate. In this paper, I create an agent based model (ABM) simulation of the Battle of Britain, which provides valuable insight into the key components that influenced the loss rates of both sides. It provides mixed support for the tactics employed by 11 Group, as the model identified numerous variables that impacted the success or otherwise of the British.
