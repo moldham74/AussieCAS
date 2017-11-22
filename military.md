@@ -6,7 +6,7 @@ _"In preparing for battle I have always found that plans are useless, but planni
 
 Agent-based models (ABMs) have been sucessfully applied to multiple research fields, with the application to military being one such field. While some of the applications are kept underwarps, this page provides a brief run down on the known appications of ABMs for military purposes. I also provide a brief run down on my contribution to the field. A lot of the information on this page came from Prof. Ken Comer's GMU CSS739 Agent-based Models: Military Applications course that was taught in the Fall of 2016.
 
-## Why are ABMs applicaable to military conflicts?
+## Why are ABMs Applicable to Military Conflicts?
 
 Combat particularly land combat, possess the characteristics of a complex adaptive system (CAS). The justfication for conlcusion is based on the following: combat forces are composed of a large number of nonlinearly interacting parts and are organized in a dynamic command-and-control network; local action, which often appears disordered, self-organizes into long-range order; military conflicts, by their nature, proceed far from equilibrium; military forces adapt to a changing combat environment; and there is no master “voice” that dictates the actions of every soldier (i.e., battlefield action is decentralized). Nonetheless, it appears that most modern “state of the art” military simulations ignore the self-organizing properties of combat, hence the limited use of ABMs thus far in the field.
 
@@ -46,7 +46,7 @@ After being tasked with implementing an ABM with a military theme in CSS739, I c
 
 ### The Battle of Britian
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CkKZSvwvY3w" frameborder="0" gesture="media" allowfullscreen></iframe>
+<iframe width="650" height="365" src="https://www.youtube.com/embed/CkKZSvwvY3w" frameborder="0" gesture="media" allowfullscreen></iframe>
 
 The Churchillian quote "Never, in the field of human conflict, was so much owed by so many to so few", encapsulates perfectly the heroics of Royal Air Force (RAF) Fighter Command (FC) during the Battle of Britain. Despite the undoubted heroics, questions remain about how FC employed the "so few". In particular, the question as to whether FC should have employed the "Big Wing" tactics, as per 12 Group, or implement the smaller wings as per 11 Group, remains a source of much debate. In this paper, I create an agent based model (ABM) simulation of the Battle of Britain, which provides valuable insight into the key components that influenced the loss rates of both sides. It provides mixed support for the tactics employed by 11 Group, as the model identified numerous variables that impacted the success or otherwise of the British.
 
