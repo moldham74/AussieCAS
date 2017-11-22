@@ -28,20 +28,20 @@ The process of “creative destruction” involves any existing market structure
 The original hypothesis, as proposed by Van Valen (1973), was focused on evolutionary biology, with the key implication stating that due to the continuous and escalating actions of competitors within an ecosystem, organisms must continually evolve if they wish to survive. The direct relevance to the innovative policy of a firm is that its performance will depend on its ability to successfully react to the actions of its competitors. 
 
 ### References
-```
+
 Arthur, W. B. (2013). Complexity Economics: A Different Framework for Economic Thought. SFI WORKING PAPER, 2013-04–012.
 
 Friedman, M. (1953). The Methodology of Positive Economics. In Essays in Positive Economics (Vol. 3). Chicago, Ill.: University of Chicago Press.
 
-Kirman, A. P. (1992). Whom or What Does the Representative Individual Represent? Journal of Economic Perspectives, 6(2), 117–136. https://doi.org/10.1257/jep.6.2.117
+Kirman, A. P. (1992). Whom or What Does the Representative Individual Represent? Journal of Economic Perspectives, 6(2), 117–136. http://doi.org/10.1257/jep.6.2.117
 
 Schumpeter, J. A. (1942). Capitalism, Socialism and Democracy. New York: Harper and Row.
 
-Simon, H. A. (1955). A Behavioral Model of Rational Choice. The Quarterly Journal of Economics, 69(1), 99. https://doi.org/10.2307/1884852
+Simon, H. A. (1955). A Behavioral Model of Rational Choice. The Quarterly Journal of Economics, 69(1), 99. http://doi.org/10.2307/1884852
 
 Tesfatsion, L., & Judd, K. L. (Eds.). (2006). Handbook of Computational Economics. Amsterdam Boston: Elsevier.Van Valen, L. (1973). A New Evolutionary Law. Evolutionary Theory, 1, 1–30.
 
-```
+
 
 
 
