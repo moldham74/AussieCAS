@@ -8,11 +8,11 @@ Sports analytics (SA) has experienced a meteoritic rise in recent years, with th
 
 ## Sports as a complex system
 
-The consideration of sports being a complex adaptive system (CAS) is a newly established field of research. There are a host of papers provided here. One of the key ramification of the research, that comes from Gabel and Redner, is that the scoring activity (lead changes, lead magnitude and the persistence of the lead) in a game of numerous sports follows a random-walk, with the exception being when a quarter comes to a close. At this point the distribution of the scoring activity becomes consistent what would be predicted by a power-law.
+The consideration of sports being a complex adaptive system (CAS) is a newly established field of research. There are a host of papers ( Clauset, Kogan, & Redner (2015), Gabel & Redner (2012), (Martín-González, et al. (2016), McGarry, Anderson, Wallace, Hughes, & Franks (2002), and Merritt & Clauset (2014)). One of the key ramification of the research, that comes from Gabel and Redner (2012), is that the scoring activity (lead changes, lead magnitude and the persistence of the lead) in a game of numerous sports follows a random-walk, with the exception being when a quarter comes to a close. At this point the distribution of the scoring activity becomes consistent what would be predicted by a power-law.
 
 Given the billionaires of dollars invested globally in sporting franchises globally it may be somewhat disconcerting for fans to learn the game is a random walk. However, all is not lost because the outcome does not imply that skill has no role, rather given relatively even skill levels at the highest level, this negates any systematic advantage leaving the random walk (stochastic process). Another explanation for the random walk process is that players are short-term focused (gee is this behavior seen in financial markets?), as they attempt to maximize their scoring while minimizing the immediate opportunities of their opponents. This means that there is little strategic play and players react to events as they occur. 
 
-The random walk process also implies that teams cannot get “hot” -- i.e., record an extended streak of making their attempts. The following paper is a great run down on the “hot hand” debate. In summary though it is one of the great cognitive errors.
+The random walk process also implies that teams cannot get “hot” -- i.e., record an extended streak of making their attempts. The paper of Bar-Eli et al. (2006) is a great run down on the “hot hand” debate. In summary though it is one of the great cognitive errors.
 
 ## My contributions
 
@@ -35,4 +35,16 @@ For all but a few superstars of the game, the secret to consistently low scores 
 The paper also investigates whether US PGA tour players exhibit “hot” or “cold” streaks from the tee. These streaks in general have become popularized as “hot” or “cold” hands, and relate to when a player has an identifiable run of performance above or below what is expected, i.e. the player is “hot” or has gone “cold”. The existence of such events has generally been debunked, but by utilizing the US PGA SHOTLINK data, a novel approach is undertaken in this paper, and finds some evidence of streaky play.
 
 ## References
+Bar-Eli, M., Avugos, S., & Raab, M. (2006). Twenty Years of “Hot Hand” Research: Review and Critique. Psychology of Sport and Exercise, 7(6), 525–553. https://doi.org/10.1016/j.psychsport.2006.03.001
+
+Clauset, A., Kogan, M., & Redner, S. (2015). Safe Leads and Lead Changes in Competitive Team Sports. Physical Review E, 91(6). https://doi.org/10.1103/PhysRevE.91.062815
+
+Gabel, A., & Redner, S. (2012). Random Walk Picture of Basketball Scoring. Journal of Quantitative Analysis in Sports, 8(1). https://doi.org/10.1515/1559-0410.1416
+
+Martín-González, J. M., de Saá Guerra, Y., García-Manso, J. M., Arriaza, E., & Valverde-Estévez, T. (2016). The Poisson Model Limits in NBA Basketball: Complexity in Team Sports. Physica A: Statistical Mechanics and Its Applications, 464, 182–190. https://doi.org/10.1016/j.physa.2016.07.028
+
+McGarry, T., Anderson, D. I., Wallace, S. A., Hughes, M. D., & Franks, I. M. (2002). Sport Competition as a Dynamical Self-organizing System. Journal of Sports Sciences, 20(10), 771–781. https://doi.org/10.1080/026404102320675620
+
+Merritt, S., & Clauset, A. (2014). Scoring dynamics across professional team sports: tempo, balance and predictability. EPJ Data Science, 3(1). https://doi.org/10.1140/epjds29
+
 
