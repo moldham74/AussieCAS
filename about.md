@@ -5,7 +5,7 @@ _"There is only one to avoid criticism: Do nothing, say nothing, and be nothing"
 
 I am currently a Computational Social Science (CSS) Ph.D. student in the [Department of Computational and Data Sciences](https://cos.gmu.edu/cds/academic-programs/) at George Mason University. My advisor, [Professor Axtell](http://www.css.gmu.edu/~axtell/Rob/Home.html) is a world leading expert in agent-based modelling (and most other things!). My original intention was to only complete my masters is CSS but as things turned out I am doing my Ph.D.. Being awarded a prestigious George Mason University Presidential scholarship is certainly a great help, and has provided me extensive freedom to research and explore a variety of topics as I progress through the Ph.D. program. 
 
-![me](websiteimages/Picture1.png)
+![me](websiteimages/IoOutput.gif)
 
 My research is focused on applying CSS for purpose of gaining a greater understanding of how financial markets behave and to explore the dynamics driving innovation. To achieve my research goals, I have positioned myself at the intersection of agent-based modelling, network analysis, and big data. This has meant that I have had to get up to speed on all the latest computation techniques.
 
