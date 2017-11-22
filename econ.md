@@ -39,7 +39,9 @@ Schumpeter, J. A. (1942). Capitalism, Socialism and Democracy. New York: Harper 
 
 Simon, H. A. (1955). A Behavioral Model of Rational Choice. The Quarterly Journal of Economics, 69(1), 99. [http://doi.org/10.2307/1884852](http://doi.org/10.2307/1884852)
 
-Tesfatsion, L., & Judd, K. L. (Eds.). (2006). Handbook of Computational Economics. Amsterdam Boston: Elsevier.Van Valen, L. (1973). A New Evolutionary Law. Evolutionary Theory, 1, 1–30.
+Tesfatsion, L., & Judd, K. L. (Eds.). (2006). Handbook of Computational Economics. Amsterdam Boston: Elsevier.
+
+Van Valen, L. (1973). A New Evolutionary Law. Evolutionary Theory, 1, 1–30.
 
 
 
