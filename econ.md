@@ -6,8 +6,6 @@ _"It is wiser to find out than to suppose"_ - Mark Twain
 
 ![Wordmap](websiteimages/wordmap.jpeg)
 
-http://www.github.com/   
-
 ### Background
 My initial questioning of neo-classical economics started after spending most of my microeconomics honors class working through the proofs as to why a demand curve slopes downwards (well at least in most classes). Apart from the fact that undergraduate and business school students sail off into business without understanding this work, many of the assumptions pertaining to the rational representative seemed onerous and unlikely to be within the grasp of the standard consumer. Unbeknown to me at the time, Simon (1955) had already questioned whether humans possessed these capabilities, and offered the alternative of human’s acting with bounded rationality. 
 
@@ -35,11 +33,11 @@ Arthur, W. B. (2013). Complexity Economics: A Different Framework for Economic T
 
 Friedman, M. (1953). The Methodology of Positive Economics. In Essays in Positive Economics (Vol. 3). Chicago, Ill.: University of Chicago Press.
 
-Kirman, A. P. (1992). Whom or What Does the Representative Individual Represent? Journal of Economic Perspectives, 6(2), 117–136. http://doi.org/10.1257/jep.6.2.117
+Kirman, A. P. (1992). Whom or What Does the Representative Individual Represent? Journal of Economic Perspectives, 6(2), 117–136. (http://doi.org/10.1257/jep.6.2.117)
 
 Schumpeter, J. A. (1942). Capitalism, Socialism and Democracy. New York: Harper and Row.
 
-Simon, H. A. (1955). A Behavioral Model of Rational Choice. The Quarterly Journal of Economics, 69(1), 99. http://doi.org/10.2307/1884852
+Simon, H. A. (1955). A Behavioral Model of Rational Choice. The Quarterly Journal of Economics, 69(1), 99. (http://doi.org/10.2307/1884852)
 
 Tesfatsion, L., & Judd, K. L. (Eds.). (2006). Handbook of Computational Economics. Amsterdam Boston: Elsevier.Van Valen, L. (1973). A New Evolutionary Law. Evolutionary Theory, 1, 1–30.
 
