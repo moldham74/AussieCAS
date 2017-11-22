@@ -12,7 +12,7 @@ The consideration of sports being a complex adaptive system (CAS) is a newly est
 
 Given the billionaires of dollars invested globally in sporting franchises globally it may be somewhat disconcerting for fans to learn the game is a random walk. However, all is not lost because the outcome does not imply that skill has no role, rather given relatively even skill levels at the highest level, this negates any systematic advantage leaving the random walk (stochastic process). Another explanation for the random walk process is that players are short-term focused (gee is this behavior seen in financial markets?), as they attempt to maximize their scoring while minimizing the immediate opportunities of their opponents. This means that there is little strategic play and players react to events as they occur. 
 
-The random walk process also implies that teams cannot get “hot” -- i.e., record an extended streak of making their attempts. The paper of [Bar-Eli et al. (2006)](Bar2006.pdf) is a great run down on the “hot hand” debate. In summary though it is one of the great cognitive errors.
+The random walk process also implies that teams cannot get “hot” -- i.e., record an extended streak of making their attempts. The paper of [Bar-Eli et al. (2006)](papers/Bar2006.pdf) is a great run down on the “hot hand” debate. In summary though it is one of the great cognitive errors.
 
 ## My contributions
 
