@@ -46,7 +46,7 @@ After being tasked with implementing an ABM with a military theme in CSS739, I c
 
 ### The Battle of Britian
 
-[https://youtu.be/CkKZSvwvY3w]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CkKZSvwvY3w" frameborder="0" gesture="media" allowfullscreen></iframe>
 
 The Churchillian quote "Never, in the field of human conflict, was so much owed by so many to so few", encapsulates perfectly the heroics of Royal Air Force (RAF) Fighter Command (FC) during the Battle of Britain. Despite the undoubted heroics, questions remain about how FC employed the "so few". In particular, the question as to whether FC should have employed the "Big Wing" tactics, as per 12 Group, or implement the smaller wings as per 11 Group, remains a source of much debate. In this paper, I create an agent based model (ABM) simulation of the Battle of Britain, which provides valuable insight into the key components that influenced the loss rates of both sides. It provides mixed support for the tactics employed by 11 Group, as the model identified numerous variables that impacted the success or otherwise of the British.
 
