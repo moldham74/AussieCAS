@@ -12,7 +12,8 @@ The consideration of sports being a complex adaptive system (CAS) is a newly est
 
 If do not want to read these papers below is presentation from Sideny Redner explaining his work with sports as a CAS. The actual presentation starts at 4 minute mark.
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/HfVi6NiKxIw" frameborder="0" gesture="media" allowfullscreen></iframe>
+<iframe width="650" height="365" src="https://www.youtube.com/embed/HfVi6NiKxIw" frameborder="0" gesture="media" allowfullscreen></iframe>
+
 
 Given the billionaires of dollars invested globally in sporting franchises globally it may be somewhat disconcerting for fans to learn the game is a random walk. However, all is not lost because the outcome does not imply that skill has no role, rather given relatively even skill levels at the highest level, this negates any systematic advantage leaving the random walk (stochastic process). Another explanation for the random walk process is that players are short-term focused (gee is this behavior seen in financial markets?), as they attempt to maximize their scoring while minimizing the immediate opportunities of their opponents. This means that there is little strategic play and players react to events as they occur. 
 
