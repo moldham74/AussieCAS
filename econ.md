@@ -6,6 +6,8 @@ _"It is wiser to find out than to suppose"_ - Mark Twain
 
 ![Wordmap](websiteimages/wordmap.jpeg)
 
+http://www.github.com/   
+
 ### Background
 My initial questioning of neo-classical economics started after spending most of my microeconomics honors class working through the proofs as to why a demand curve slopes downwards (well at least in most classes). Apart from the fact that undergraduate and business school students sail off into business without understanding this work, many of the assumptions pertaining to the rational representative seemed onerous and unlikely to be within the grasp of the standard consumer. Unbeknown to me at the time, Simon (1955) had already questioned whether humans possessed these capabilities, and offered the alternative of human’s acting with bounded rationality. 
 
