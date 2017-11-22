@@ -18,7 +18,11 @@ The website is updated regualarly with new articles that I find and post on eith
 ## What are complex adaptive systems, and why are they important?
 A CAS can be found anywhere from an ecological to an economic system. The key characteristics of these systems are that the agents within the system interact in a non-linear fashion with other agents, and their environment resulting in collective behavior. That is a small number of rules applied locally are responsible for generating complex global phenomena. This is turn makes the system non-predictable beyond a certain temporal window.
 
-Big part is emergence - Stable macro patterns arising from local interaction of individual entities
+
+
+Big part is emergence - Stable macro patterns arising from local interaction of individual entities. Here is a 10 minutes video that does a far better job of explaining it.
+
+<iframe width="854" height="480" src="https://www.youtube.com/embed/vp8v2Udd_PM" frameborder="0" gesture="media" allowfullscreen></iframe>
 
 Complexity is not a theory but a movement in the sciences that studies how the interacting elements in a system create overall patterns, and how these overall patterns in turn cause the interacting elements to change or adapt.
 
