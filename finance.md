@@ -30,4 +30,7 @@ The key finding of the paper was that the density of the market moved in-line wi
 
 ![LivingMarket](websiteimages/LivingOutput.gif)
 
+
+<div style="clear:both"><a href="http://www.visualcapitalist.com/market-complexity-trigger-next-crash/"><img src="http://2oqz471sa19h3vbwa53m33yj.wpengine.netdna-cdn.com/wp-content/uploads/2017/09/infographic-market-complexity-next-crash.jpg" border="0" /></a></div><div>Courtesy of: <a href="http://www.visualcapitalist.com">Visual Capitalist</a></div>
+
 ### References
