@@ -30,7 +30,21 @@ The key finding of the paper was that the density of the market moved in-line wi
 
 ![LivingMarket](websiteimages/LivingOutput.gif)
 
+I also found this great webpage over at the [Visual Capitalist](http://www.visualcapitalist.com) which covers complexity in financial markets.
 
 <div style="clear:both"><a href="http://www.visualcapitalist.com/market-complexity-trigger-next-crash/"><img src="http://2oqz471sa19h3vbwa53m33yj.wpengine.netdna-cdn.com/wp-content/uploads/2017/09/infographic-market-complexity-next-crash.jpg" border="0" /></a></div><div>Courtesy of: <a href="http://www.visualcapitalist.com">Visual Capitalist</a></div>
 
 ### References
+Cont, R. (2007). Volatility Clustering in Financial Markets: Empirical Facts and Agent-Based Models. In Long Memory in Economics (pp. 289–309). Springer Berlin Heidelberg. https://doi.org/10.1007/978-3-540-34625-8_10
+
+Farmer, J. D., Gallegati, M., Hommes, C., Kirman, A., Ormerod, P., Cincotti, S., … Helbing, D. (2012). A complex systems approach to constructing better models for managing financial markets and the economy. The European Physical Journal Special Topics, 214(1), 295–324. https://doi.org/10.1140/epjst/e2012-01696-9
+
+Friedman, M. (1953). The Methodology of Positive Economics. In Essays in positive economics (Vol. 3). Chicago, Ill.: University of Chicago Press.
+
+Johnson, N. F., Jefferies, P., & Hui, P. M. (2003). Financial Market Complexity. Oxford ; New York: Oxford University Press.
+
+Lux, T., & Alfarano, S. (2016). Financial Power Laws: Empirical Evidence, Models, and Mechanisms. Chaos, Solitons & Fractals, 88, 3–18. https://doi.org/10.1016/j.chaos.2016.01.020
+
+Mandelbrot, B. (1963). The Variation of Certain Speculative Prices. The Journal of Business, 36(4), 394. https://doi.org/10.1086/294632
+
+Sornette, D. (2014). Physics and financial economics (1776–2014): puzzles, Ising and agent-based models. Reports on Progress in Physics, 77(6), 62001. https://doi.org/10.1088/0034-4885/77/6/062001
