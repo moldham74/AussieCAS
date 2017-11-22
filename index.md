@@ -5,18 +5,18 @@ Congratualtions on finding your way to my website. I hope that you will find it'
 The website is updated regualarly with new articles that I find and post on either my [Linkedin](https://www.linkedin.com/in/oldhamma) or [Twitter](https://twitter.com/maoldham74) sites.
 
 ## What you will find on my wesbite
-* **_About me_**: This page provides more details about me, including my academic and work background. I also provide a further explanation about what I am currently studying and why
+* **_About me_**: This page provides more details about me, including my academic and work background. I also provide a further explanation about what I am currently studying and why.
 * **_Research interests_**
-  *  **_Economics:_** There are rich pickings in the terms of treating the parts of the economy as a complex adaptive system (CAS). This section touches on the reason why this. In addition, I provide an example of my work in the field;
+  *  **_Economics:_** There are rich pickings in the terms of assessing the economy as a complex adaptive system (CAS). This section touches on the reason why this. In addition, I provide an example of my work in the field;
   *  **_Finance:_** There has been considerable effort, and success, in analyzing financial markets as a CAS. I provide some of the background and outline my work in the area;
-  *  **_Sports:_** As sports analytics continues its meteoric growth the availability of massive quanitities and enabled researchers to uncover that certain sports may be CASs. I highlight some of the papers and provide a outline to my soon to be released basketball agent-based model;
-  *  **_Military Applications:_** ABM has made a meaningful contribution to the defense sector. Here I touch on the backgrund and present my contribution to the field
+  *  **_Sports:_** As sports analytics continues its meteoric growth, the availability of massive quanitities of data has enabled researchers to uncover the fact that certain sports may be CASs. I highlight some of the papers and provide an outline to my soon to be released basketball agent-based model;
+  *  **_Military Applications:_** ABM has made a meaningful contribution to the defense sector. Here I touch on the background and present my contribution to the field.
 * **_Publications:_** This page provides a link to the various works that I have had published; and
-* **_Reading list:_** Along my learning journey I have managed to come across a variety of great books. In this section I highlight the books I found the most interesting.
+* **_Reading list:_** Along my learning journey I have managed to come across a variety of great books. In this section I highlight the books I found the most interesting. There is also a link to the various papers that I mention throughout my website.
 
 # Background
 ## What are complex adaptive systems, and why are they important?
-A CAS can be found anywhere from an ecological to an economic system. The key characteristics of these systems are that the agents within the system interact in a non-linear fashion with other agents, and their environment resulting in collective behavior. that is a small number of rules applied locally is responsible for generating complex global phenomena. This is turn makes the system non-predictable beyond a certain temporal window.
+A CAS can be found anywhere from an ecological to an economic system. The key characteristics of these systems are that the agents within the system interact in a non-linear fashion with other agents, and their environment resulting in collective behavior. That is a small number of rules applied locally are responsible for generating complex global phenomena. This is turn makes the system non-predictable beyond a certain temporal window.
 
 Big part is emergence - Stable macro patterns arising from local interaction of individual entities
 
