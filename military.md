@@ -32,13 +32,13 @@ While the benefits of ABMs have not been fully exploited by today's miliary, his
 
 ### Battle of Trafalgar
 
-Trautteur and Virgilio (2003) implemented an ABM that analyzed the famous naval [Battle of Trafalgar](https://en.wikipedia.org/wiki/Battle_of_Trafalgar). Features of the model, which all highlight the utility of ABMs, included area winds and local winds, two kinds of combat, four classes of ships, varying crew efficiency, etc. The ships “escaped” or surrendered based on their levels of casualties. Damage also played a part with ships either sunk or their performance diminished.
+[Trautteur and Virgilio (2003)](papers/Trautteur2003.pdf) implemented an ABM that analyzed the famous naval [Battle of Trafalgar](https://en.wikipedia.org/wiki/Battle_of_Trafalgar). Features of the model, which all highlight the utility of ABMs, included area winds and local winds, two kinds of combat, four classes of ships, varying crew efficiency, etc. The ships “escaped” or surrendered based on their levels of casualties. Damage also played a part with ships either sunk or their performance diminished.
 
 The results agreed in a very strict way with historical data. A comparison between the computational model and Lanchester’s analytical model was also provided. In a key finding the forecasts from the Lanchester model were substantial different to the results obtained by the computational model - and the actual outcome. 
 
 ### Battle of Isandlwana
 
-Scogings and Hawick (2012) provided a simulation of the [Battle of Isandlwana](https://en.wikipedia.org/wiki/Battle_of_Isandlwana) with considerable historical accuracy. Additionally, altered the inputs to demonstrate a plausible alternative to history. The histrorical interest in the battle is that the British made a number of stratgeic errors including, underestimating the enemy, and overestimating the effectiveness of their weapons. This lead to poor defensive tactics by the British, which eventually saw their annihilation in the battle and their forced retreat.
+[Scogings and Hawick (2012)](papers/Scogings2012.pdf) provided a simulation of the [Battle of Isandlwana](https://en.wikipedia.org/wiki/Battle_of_Isandlwana) with considerable historical accuracy. Additionally, altered the inputs to demonstrate a plausible alternative to history. The histrorical interest in the battle is that the British made a number of stratgeic errors including, underestimating the enemy, and overestimating the effectiveness of their weapons. This lead to poor defensive tactics by the British, which eventually saw their annihilation in the battle and their forced retreat.
 
 ## My Contribution
 
