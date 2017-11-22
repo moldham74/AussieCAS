@@ -33,11 +33,11 @@ Arthur, W. B. (2013). Complexity Economics: A Different Framework for Economic T
 
 Friedman, M. (1953). The Methodology of Positive Economics. In Essays in Positive Economics (Vol. 3). Chicago, Ill.: University of Chicago Press.
 
-Kirman, A. P. (1992). Whom or What Does the Representative Individual Represent? Journal of Economic Perspectives, 6(2), 117–136. (http://doi.org/10.1257/jep.6.2.117)
+Kirman, A. P. (1992). Whom or What Does the Representative Individual Represent? Journal of Economic Perspectives, 6(2), 117–136. [http://doi.org/10.1257/jep.6.2.117](http://doi.org/10.1257/jep.6.2.117)
 
 Schumpeter, J. A. (1942). Capitalism, Socialism and Democracy. New York: Harper and Row.
 
-Simon, H. A. (1955). A Behavioral Model of Rational Choice. The Quarterly Journal of Economics, 69(1), 99. (http://doi.org/10.2307/1884852)
+Simon, H. A. (1955). A Behavioral Model of Rational Choice. The Quarterly Journal of Economics, 69(1), 99. [http://doi.org/10.2307/1884852](http://doi.org/10.2307/1884852)
 
 Tesfatsion, L., & Judd, K. L. (Eds.). (2006). Handbook of Computational Economics. Amsterdam Boston: Elsevier.Van Valen, L. (1973). A New Evolutionary Law. Evolutionary Theory, 1, 1–30.
 
