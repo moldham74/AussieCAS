@@ -21,7 +21,7 @@ Network science   --- explaining in CAS. While the actual network configuration 
 
 ![NetworkCartoon](websiteimages/cartoonOutput.gif)
 
-In my class project for CSS697 - Social Network Analysis, I managed to analysis the actual company x investor network for the S&P 500 and US instutional investors from 2007 to 2010. My findings can be found [here](papers/  ). I presented the [findings](papers/) from the project at 2nd Workshop on Statistical Physics of Financial and Economic Networks satellie of the [NetSci2017](http://netsci2017.net/program/satellites) conference. 
+In my class project for CSS697 - Social Network Analysis, I managed to analysis the actual company x investor network for the S&P 500 and US instutional investors from 2007 to 2010. My findings can be found [here](papers/The quest for living beta.pdf). I presented the [findings](Presentations/NetSci2017.pptx) from the project at 2nd Workshop on Statistical Physics of Financial and Economic Networks satellie of the [NetSci2017](http://netsci2017.net/program/satellites) conference. 
 
 The key finding of the paper was that the density of the market moved in-line withe the index. The changes is the density can be seen in the diagram below, which shows how density of the company x investor network changed through time. An increasing density, being represented by a "darker" graph, and vice versa for a decline in density.
 
