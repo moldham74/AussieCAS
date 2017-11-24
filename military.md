@@ -6,11 +6,11 @@ _"In preparing for battle I have always found that plans are useless, but planni
 
 Agent-based models (ABMs) have been sucessfully applied to multiple research fields, with the application to military being one such field. While some of the applications are kept underwarps, this page provides a brief run down on the known appications of ABMs for military purposes. I also provide a brief run down on my contribution to the field. A lot of the information on this page came from Prof. Ken Comer's GMU CSS739 Agent-based Models: Military Applications course that was taught in the Fall of 2016.
 
-## Why are ABMs Applicable to Military Conflicts?
+## Why are ABMs applicable to military conflicts?
 
 Combat particularly land combat, possess the characteristics of a complex adaptive system (CAS). The justfication for conlcusion is based on the following: combat forces are composed of a large number of nonlinearly interacting parts and are organized in a dynamic command-and-control network; local action, which often appears disordered, self-organizes into long-range order; military conflicts, by their nature, proceed far from equilibrium; military forces adapt to a changing combat environment; and there is no master “voice” that dictates the actions of every soldier (i.e., battlefield action is decentralized). Nonetheless, it appears that most modern “state of the art” military simulations ignore the self-organizing properties of combat, hence the limited use of ABMs thus far in the field.
 
-## Real World Military Applications
+## Examples of real-world military utlization
 
 The use of simulation in the military is not anything new. The rationale for using simulations is that you can not run combat experiments in peacetime. Further, even in conflict, the concept of designed experimentation is not practical. Some of the earliest examples of military simulations, that predate the compute, include:
 
@@ -26,7 +26,7 @@ With regard to the use of ABMs for the pruspose of combat simulation, numerous a
    
 Of these EINSTein, made the greatest contribution, summary of the project and its results are found in Ilachinski's book [Artificial War](http://www.worldscientific.com/worldscibooks/10.1142/5531). The purpose of the research was to explore the applicability of complex adaptive systems theory to the study of warfare, and introduces a sophisticated multiagent-based simulation of combat called EINSTein. EINSTein, whose bottom-up, generative approach to modeling combat stands in stark contrast to the top-down or reductionist philosophy that still underlies most conventional military models, is designed to illustrate how many aspects of land combat may be understood as self-organized, emergent phenomena. Used worldwide by the military operations research community, EINSTein has pioneered the simulation of combat on a small to medium scale by using autonomous agents to model individual behaviors and personalities rather than hardware.
 
-## Historical Military Application
+## Examples of historical military utlization
 
 While the benefits of ABMs have not been fully exploited by today's miliary, historians have used them to great effect to reconstruct militaray campaigns for the purpose of what went right and wrong for the combatants. Two examples inlcude
 
@@ -40,7 +40,7 @@ The results agreed in a very strict way with historical data. A comparison betwe
 
 [Scogings and Hawick (2012)](papers/Scogings2012.pdf) provided a simulation of the [Battle of Isandlwana](https://en.wikipedia.org/wiki/Battle_of_Isandlwana) with considerable historical accuracy. Additionally, altered the inputs to demonstrate a plausible alternative to history. The histrorical interest in the battle is that the British made a number of stratgeic errors including, underestimating the enemy, and overestimating the effectiveness of their weapons. This lead to poor defensive tactics by the British, which eventually saw their annihilation in the battle and their forced retreat.
 
-## My Contribution
+## My contribution
 
 After being tasked with implementing an ABM with a military theme in CSS739, I combined my love of World War II (WWII) history, and my new found knowledge of military simulation techniques. The result was my awarding winning (winner of the best paper at the 16th MABs confernce) To [Big Wing, or Not to Big Wing, Now an Answer](https://link.springer.com/chapter/10.1007/978-3-319-46882-2_5) paper. For this paper I lucky enough to lean on the previous work of the [York Historical Warfare Analysis Group](http://www-users.york.ac.uk/~nm15/ynt/YHWAG.html).
 
