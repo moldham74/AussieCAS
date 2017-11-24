@@ -29,10 +29,10 @@ A copy of the paper can be [found here](http://link.springer.com/chapter/10.1007
 # Conference Presentations
 
 ## MABS
-[here](Presentations/BattleofBritain.pptx)
+I presented my Battle of Britain model at the 17th International conference on multi-agent based simualtions. The presentation can be found [here](Presentations/BattleofBritain.pptx). 
 
 ## 12 Artifical Economics
-[about](Presentations/AE2016 Presentation.pptx)
+My contribution to the 12th Artificial Economics Conference, was what utilimately became my *Market Fluctuations Explained by Dividends and Investor Networks* paper. The presentation can be downloaded from [here](Presentations/AE2016 Presentation.pptx).
 
 ## NetSci
-[here](Presentations/NetSci2017.pptx)
+My contribution to the 2nd Workshop on Statistical Physics of Financial and Economic Networks satellie at NetSci2017 conference can be downloaded [here](Presentations/NetSci2017.pptx).
