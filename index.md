@@ -32,17 +32,18 @@ I provided a video from the [2nd Annual International Conference on Computationa
 <iframe width="650" height="365" src="https://www.youtube.com/embed/kyZkptxlSA8" frameborder="0" gesture="media" allowfullscreen></iframe>
 
 ## What are agent-based models, and why use them?
-From Herbert Simon - Adaptive systems are predisposed to simulation. Why? Do not need to identify all the inner parts if just interested in how these parts organize independently of all but a few properties of the individual components.
+Herbert Simon, in his book The Sciences of the Artificial makes the point that complex adaptive systems are predisposed to simulation. The rationale being that one does not need to identify the properties of the all parts of a system in their entirety, if the goal is to understand how the parts organize themselves to create certain macro outcomes. In turn, these outcomes are likely to arise independently of all but a few properties of the individual components. The implication being that these macro outcomes need to be assessed from a bottom-up perspective. In trying to simulate these emergent processes the objective should be to create a model of target that is simpler to study than the target itself.  
 
 <iframe width="650" height="365" src="https://www.youtube.com/embed/stziwtQBrZ0" frameborder="0" gesture="media" allowfullscreen></iframe>
 
-For a complex system	Behavior at one level may lead to a new entity emerging which has new behavior and therefore needs a new class of model. CREATE A MODEL OF TARGET THAT IS SIMPLER TO STUDY THAN THE TARGET ITSELF 
+One method of simulation that can achieve the objectives of bottom-up simulation is ABM. ABMs allow researchers to assess, in a silicon laboratory, the micro-level interactions that give rise to verifiable macro outcomes. This is achieved through heterogeneous agents adapting and making decisions based on their environment, including considering spatial, temporal factors and from interactions with other agents. Additionally, the agents in these models are not constrained to equilibrium conditions. Therefore, ABMs allows one to understand and predict from the bottom up. 
 
-The model at the macro level does not have a set of equilibrium conditions and/or problems to solve for (noting that agents can have these)
-Method that allows analyst to create, analyze and experiment with artificial worlds populated by agents that interact in non-trivial ways and that constitutes their own environment <- need to understand and predict from the bottom up
+The key benefits of ABMs over other simulation techniques, as articulated by Axtell (2000), are that it may be the only way to uncover the solution structure, test the dynamics of the system, and test the sensitivity of the model’s output against its parameters and assumptions. In implementing an agent-based model the principle is to make the rules as simple of possible yet generate the emergent behavior at the system or macro level.
 
-To explore how macro-patterns such as residential segregation, cultural norms, and social networks emerge from micro-behavior, we will discuss the bottom-up framework of agent-based modeling. A modelling technique, where the model is made up of automisouse decision making entities. These are agents and take the form of anything from a particle to government. Commonly a person. The collection of the agents then becomes the system. When the agents interact with other agents and their environment an emergent property should occur. The principle is to make the rules as simple of possible yet generate the emergent behavior at the the sysytem or macro level.
+References
+Axtell, R. (2000). Why agents?: on the varied motivations for agent computing in the social sciences. _Center on Social and Economic Dynamics Brookings Institution._
 
-This sort of analyis is not feasible with traditonal techniques.
+Simon, H. A. (1996). _The Sciences of the Artificial (3rd ed)._ Cambridge, Mass: MIT Press.
+
 
 
