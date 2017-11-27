@@ -16,11 +16,13 @@ The website is updated regularly with new articles that I find and post on eithe
 
 # Background
 ## What are complex adaptive systems, and why are they important?
-A CAS can be found anywhere from an ecological to an economic system. The key characteristics of these systems are that the agents within the system interact in a non-linear fashion with other agents, and their environment resulting in collective behavior. That is a small number of rules applied locally are responsible for generating complex global phenomena. This is turn makes the system non-predictable beyond a certain temporal window. A key attribute of a CAS emergent outcomes, which is where stable macro patterns arise from local interaction of the agent. Here is a 10 minutes video that does a far better job of explaining it.
+A CAS are found anywhere from an ecological to an economic system. The key characteristics of these systems are that the agents within the system interact in a non-linear fashion with other agents, and their environment resulting in collective behavior. That is a small number of rules applied locally are responsible for generating complex global phenomena. This is turn makes the system non-predictable beyond a certain temporal window. A key attribute of a CAS are emergent outcomes, which is where stable macro patterns arise from local interaction of the agent. Alternativelya  process is defined as emergent when larger entities, patterns, and regularities arise through interactions among smaller or simpler entities that themselves do not exhibit such properties.
+
+Here is a 10 minutes video that does a far better job of explaining it.
 
 <iframe width="650" height="365" src="https://www.youtube.com/embed/vp8v2Udd_PM" frameborder="0" gesture="media" allowfullscreen></iframe>
 
-In terms of complexity, it is not a theory but rather a movement in the sciences that studies how the interacting elements in a system create overall patterns, and how these overall patterns in turn cause the interacting elements to change or adapt.
+In terms of complexity, it is should be noted that it is not a theory per se but rather a movement in the sciences that studies how the interacting elements in a system create overall patterns, and how these overall patterns in turn cause the interacting elements to change or adapt.
 
 ## Why study Computational Social Science?
 Computational social science (CSS) is an emerging field at the intersection of social science, math, and computer science that utilizes numerical models to further our understanding of societies, markets, and human behavior. In contrast to traditional approaches to social science (e.g., inferential statistics, axiomatic modeling, or interviews), the numerical nature of the models present both unique opportunities and methodological challenges. For example, how do we introduce adaptive behavior into our models of human conflict and cooperation? Why are things as they are? How do we evaluate policies when decision makers are boundedly rational? 
@@ -36,7 +38,8 @@ Herbert Simon, in his book The Sciences of the Artificial makes the point that c
 
 <iframe width="650" height="365" src="https://www.youtube.com/embed/stziwtQBrZ0" frameborder="0" gesture="media" allowfullscreen></iframe>
 
-One method of simulation that can achieve the objectives of bottom-up simulation is ABM. ABMs allow researchers to assess, in a silicon laboratory, the micro-level interactions that give rise to verifiable macro outcomes. This is achieved through heterogeneous agents adapting and making decisions based on their environment, including considering spatial, temporal factors and from interactions with other agents. Additionally, the agents in these models are not constrained to equilibrium conditions. Therefore, ABMs allows one to understand and predict from the bottom up. 
+
+One method of simulation that can achieve the objectives of bottom-up simulation is ABM. Agent-based model (ABMs) allow researchers to assess, in a silicon laboratory, the micro-level interactions that give rise to verifiable macro outcomes. This is achieved through heterogeneous agents adapting and making decisions based on their environment, including considering spatial, temporal factors and from interactions with other agents. Additionally, the agents in these models are not constrained to equilibrium conditions. Therefore, ABMs allows one to understand and predict from the bottom up. 
 
 The key benefits of ABMs over other simulation techniques, as articulated by Axtell (2000), are that it may be the only way to uncover the solution structure, test the dynamics of the system, and test the sensitivity of the model’s output against its parameters and assumptions. In implementing an agent-based model the principle is to make the rules as simple of possible yet generate the emergent behavior at the system or macro level.
 
