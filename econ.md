@@ -23,7 +23,7 @@ Consideration of the economy as a complex system has gathered considerable steam
 
 As mentioned previously the use of ABMs has been the primary analytical tool utilized to research the economy as a complex system. The website of [Leigh Tesfatsion](http://www2.econ.iastate.edu/tesfatsi/ace.htm) is a great resource, while the Handbook of Computational Economics Volume 2, while now a little dated, is an excellent resource
 
-### My Interest
+## My interest
 The utilization of complexity economics for the goal of understanding the process of innovation is on great interest for me, and in particular the process of “creative destruction” (Schumpeter, 1942). There is extensive research and theory relating to the way firms interact with other firms. However, the evolutionary aspect of these relationships remains outside the mainstream of economic research. While there are many parts to the evolutionary process, my interest has been in Red Queen hypothesis [(Van Valen, 1973)](papers/VanValen 1972.pdf). My first paper on the subject can be found here 
 
 The process of “creative destruction” involves any existing market structure being “destroyed” because of the successful innovation of a firm, with its significance being that it explains why firms are motivated to undertake new “actions” to either improve their position or retain their position in response to the actions of their competitors.  The ramification is that the system is in a perpetual state of change, making it vital to understand the dynamics involved in the process of innovation.  
