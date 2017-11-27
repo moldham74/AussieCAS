@@ -53,7 +53,7 @@ Sornette is
 GDiuqgwefi
 
 ## Butterfly Economics
-![Bubble](websiteimages/butter.jpg){: width="350px"}
+![Bubble](websiteimages/butter.jpg){: width="350px"}.
 
 ## The Death of Economics
-![Bubble](websiteimages/death.jpg){: width="350px"}
+![Bubble](websiteimages/death.jpg){: width="350px"}.
