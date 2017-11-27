@@ -22,10 +22,21 @@ fgadgf
 
 fgadgf
 
+## Adapt
+![Bubble](websiteimages/adapt.jpg){: width="350px"}.
+
+fgadgf
+
+## Messy
+![Bubble](websiteimages/Messy.jpg){: width="350px"}.
+
+fgadgf
+
 ## Why Most Things Fail
 ![Bubble](websiteimages/fail.jpg){: width="350px"}.
 
 fgadgf
+
 
 ## Into the Black
 ![Bubble](websiteimages/Intotheblack.jpg){: width="350px"}.
