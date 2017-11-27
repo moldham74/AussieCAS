@@ -29,7 +29,8 @@ Here is a 10 minutes video that does a great job of explaining it.
 
 <iframe width="650" height="365" src="https://www.youtube.com/embed/vp8v2Udd_PM" frameborder="0" gesture="media" allowfullscreen></iframe>
 
-The ramification of emegerent outcmes 
+
+It is the presence of these unexpected emergent outcomes that underlies the need to gain a greater understanding of CAS. Classic examples of these emergent behavior is how communities becomes highly segregated despite the population not being predisposed to segregation (see Schelling  (1971), how birds form large flocks, traffic jams form and propagate, or how asset bubbles are created.
 
 In terms of complexity science, it is should be noted that it is not a theory per se but rather a movement in the sciences that studies how the interacting elements in a system create overall patterns, and how these overall patterns in turn cause the interacting elements to change or adapt.
 
@@ -47,12 +48,15 @@ Herbert Simon, in his book The Sciences of the Artificial makes the point that c
 
 <iframe width="650" height="365" src="https://www.youtube.com/embed/stziwtQBrZ0" frameborder="0" gesture="media" allowfullscreen></iframe>
 
+
 One method of simulation that can achieve the objectives of bottom-up simulation is ABM. Agent-based model (ABMs) allow researchers to assess, in a silicon laboratory, the micro-level interactions that give rise to verifiable macro outcomes. This is achieved through heterogeneous agents adapting and making decisions based on their environment, including considering spatial, temporal factors and from interactions with other agents. Additionally, the agents in these models are not constrained to equilibrium conditions. Therefore, ABMs allows one to understand and predict from the bottom up. 
 
 The key benefits of ABMs over other simulation techniques, as articulated by Axtell (2000), are that it may be the only way to uncover the solution structure, test the dynamics of the system, and test the sensitivity of the model’s output against its parameters and assumptions. In implementing an agent-based model the principle is to make the rules as simple of possible yet generate the emergent behavior at the system or macro level.
 
 References
 Axtell, R. (2000). Why agents?: on the varied motivations for agent computing in the social sciences. _Center on Social and Economic Dynamics Brookings Institution._
+
+Schelling, T. C. (1971). Dynamic models of segregation._ Journal of mathematical sociology, 1_(2), 143-186.
 
 Simon, H. A. (1996). _The Sciences of the Artificial (3rd ed)._ Cambridge, Mass: MIT Press.
 
