@@ -57,7 +57,7 @@ The key benefits of ABMs over other simulation techniques, as articulated by Axt
 
 Axtell, R. (2000). Why agents?: on the varied motivations for agent computing in the social sciences. _Center on Social and Economic Dynamics Brookings Institution._
 
-Schelling, T. C. (1971). Dynamic models of segregation._ Journal of mathematical sociology, 1_(2), 143-186.
+Schelling, T. C. (1971). Dynamic models of segregation. _Journal of Mathematical Sociology, 1_(2), 143-186.
 
 Simon, H. A. (1996). _The Sciences of the Artificial (3rd ed)._ Cambridge, Mass: MIT Press.
 
