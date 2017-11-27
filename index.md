@@ -54,6 +54,7 @@ One method of simulation that can achieve the objectives of bottom-up simulation
 The key benefits of ABMs over other simulation techniques, as articulated by Axtell (2000), are that it may be the only way to uncover the solution structure, test the dynamics of the system, and test the sensitivity of the model’s output against its parameters and assumptions. In implementing an agent-based model the principle is to make the rules as simple of possible yet generate the emergent behavior at the system or macro level.
 
 References
+
 Axtell, R. (2000). Why agents?: on the varied motivations for agent computing in the social sciences. _Center on Social and Economic Dynamics Brookings Institution._
 
 Schelling, T. C. (1971). Dynamic models of segregation._ Journal of mathematical sociology, 1_(2), 143-186.
