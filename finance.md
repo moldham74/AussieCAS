@@ -14,10 +14,18 @@ According to Johnson, Jefferies and Hui (2003), for a system to be considered co
 
 ![Market](websiteimages/mktOutput.gif)
 
-The above animation plots the course of the S&P 500 as it heads towards, and then recovers from the Global Financial Crisis (GFC). As mentioned above it was this "unexpected" and "unexplained" collapse that has provided the impetus for the search for alternative analytical frameworks. In my [journal articles](https://moldham74.github.io/AussieCAS/pub.html), I have implemented and report on an ABM that was capable of explaining why a market main behavior in such a manner. The key aspect aspect of the model being the ability of investors to consider the actions of their neighbors, thus point to another important field of research - network science.
+The above animation plots the course of the S&P 500 as it heads towards, and then recovers from the Global Financial Crisis (GFC). As mentioned above it was this "unexpected" and "unexplained" collapse that has provided the impetus for the search for alternative analytical frameworks. 
 
-### Markets and Networks
-Network science   --- explaining in CAS. While the actual network configuration of investors may be all but impossible to uncover, a more obvious network is the one formed between investors and companies. This is know as a bipartite network and an example of how the network might behave is illustrated below. Links in the network are formed (removed) when an investor makes an investment (divestment) in a company. There are many implications stemming from the dynamics involved in trading, including how investors are linked by similar holdings
+## My contribution
+In my recent [journal articles](https://moldham74.github.io/AussieCAS/pub.html), I implemented and reported on an ABM that was capable of explaining why a market may behavior in the manner describded above. The key aspect aspect of the model was the ability of investors to consider the actions of their neighbors, thus point to another important field of research - network science. Ultimately, both papers report that the network topology that the investors form has a material effect on the behavior of the market. 
+
+The [first paper](http://doi.org/10.1142/S0219525917500072), looked in the effect of dividends on the market, while the [second paper](http://jasss.soc.surrey.ac.uk/20/4/13.html) introduced a mutliple risky asset model.
+
+
+### Markets and networks
+The case for the increasing utilization of network science within a complex system view of the economy comes from the fact that due to the increasing dependency between economic agents, it is becoming increasingly di±cult to predict and control the economy. In a more specific application of network science to  ̄financial markets, they have been able to explain trading decisions and portfolio performance  and networks have been found to exist between investors.
+
+While the complete network configuration between investors may be all but impossible to uncover, a more obvious network is the one formed between investors and companies. This is know as a bipartite network and an example of how the network might behave is illustrated below. Links in the network are formed (removed) as an investor makes an investment (divestment) in a company. There are many implications stemming from the dynamics involved in trading, including how investors are linked by similar holdings.
 
 ![NetworkCartoon](websiteimages/cartoonOutput.gif)
 
@@ -30,6 +38,7 @@ The key finding of the paper was that the density of the market moved in-line wi
 I also found this great webpage over at the [Visual Capitalist](http://www.visualcapitalist.com) which covers complexity in financial markets.
 
 <div style="clear:both"><a href="http://www.visualcapitalist.com/market-complexity-trigger-next-crash/"><img src="http://2oqz471sa19h3vbwa53m33yj.wpengine.netdna-cdn.com/wp-content/uploads/2017/09/infographic-market-complexity-next-crash.jpg" border="0" /></a></div><div>Courtesy of: <a href="http://www.visualcapitalist.com">Visual Capitalist</a></div>
+
 
 ### References
 Cont, R. (2007). Volatility Clustering in Financial Markets: Empirical Facts and Agent-Based Models. _In Long Memory in Economics (pp. 289–309)_. Springer Berlin Heidelberg. [https://doi.org/10.1007/978-3-540-34625-8_10](https://doi.org/10.1007/978-3-540-34625-8_10)
