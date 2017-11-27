@@ -22,7 +22,7 @@ In my recent [journal articles](https://moldham74.github.io/AussieCAS/pub.html),
 The [first paper](http://doi.org/10.1142/S0219525917500072), looked in the effect of dividends on the market, while the [second paper](http://jasss.soc.surrey.ac.uk/20/4/13.html) introduced a mutliple risky asset model.
 
 
-### Markets and networks
+## Markets and networks
 The case for the increasing utilization of network science within a complex system view of the economy comes from the fact that due to the increasing dependency between economic agents, it is becoming increasingly di±cult to predict and control the economy. In a more specific application of network science to  ̄financial markets, they have been able to explain trading decisions and portfolio performance  and networks have been found to exist between investors.
 
 While the complete network configuration between investors may be all but impossible to uncover, a more obvious network is the one formed between investors and companies. This is know as a bipartite network and an example of how the network might behave is illustrated below. Links in the network are formed (removed) as an investor makes an investment (divestment) in a company. There are many implications stemming from the dynamics involved in trading, including how investors are linked by similar holdings.
@@ -35,6 +35,7 @@ The key finding of the paper was that the density of the market moved in-line wi
 
 ![LivingMarket](websiteimages/LivingOutput.gif)
 
+## A great example
 I also found this great webpage over at the [Visual Capitalist](http://www.visualcapitalist.com) which covers complexity in financial markets.
 
 <div style="clear:both"><a href="http://www.visualcapitalist.com/market-complexity-trigger-next-crash/"><img src="http://2oqz471sa19h3vbwa53m33yj.wpengine.netdna-cdn.com/wp-content/uploads/2017/09/infographic-market-complexity-next-crash.jpg" border="0" /></a></div><div>Courtesy of: <a href="http://www.visualcapitalist.com">Visual Capitalist</a></div>
