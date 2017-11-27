@@ -4,7 +4,7 @@ _"You can't score a goal if you don't take a shot"_  - Johan Cruyff
 
 ![Sport](websiteimages/bball.jpg)
 
-Sports analytics (SA) has experienced a meteoritic rise in recent years, with the trend forecast to continue. [Modor Intelligence] (http://www.marketwatch.com/story/sports-analytics-market-growing-at-379-cagr-to-2021-2016-05-09-2203123) reports that the market was valued at USD 83.56 million in 2015, and is forecast to grow to USD 447.23 million by 2020. However, the growth was a long time in the making as the genesis of SA can be traced back over 50 years. The delayed adaption was partly due to the field being seen as frivolous and a hobby industry, and as told in Moneyball a reluctance of sporting organizations to include it in their decision-making.  However, this has now changed, with the only downside being that the innovative work is being carried out within the sports organizations with the work hidden from the public realm. However, this is changing given the massive amount of publicly available sporting data, and the field being taken seriously in the academic world.  
+Sports analytics (SA) has experienced a meteoritic rise in recent years, with the trend forecast to continue. [Modor Intelligence](http://www.marketwatch.com/story/sports-analytics-market-growing-at-379-cagr-to-2021-2016-05-09-2203123) reports that the market was valued at USD 83.56 million in 2015, and is forecast to grow to USD 447.23 million by 2020. However, the growth was a long time in the making as the genesis of SA can be traced back over 50 years. The delayed adaption was partly due to the field being seen as frivolous and a hobby industry, and as told in Moneyball a reluctance of sporting organizations to include it in their decision-making.  However, this has now changed, with the only downside being that the innovative work is being carried out within the sports organizations with the work hidden from the public realm. However, this is changing given the massive amount of publicly available sporting data, and the field being taken seriously in the academic world.  
 
 ## Sports as a complex system
 
@@ -40,16 +40,16 @@ For all but a few superstars of the game, the secret to consistently low scores 
 The paper also investigates whether US PGA tour players exhibit “hot” or “cold” streaks from the tee. These streaks in general have become popularized as “hot” or “cold” hands, and relate to when a player has an identifiable run of performance above or below what is expected, i.e. the player is “hot” or has gone “cold”. The existence of such events has generally been debunked, but by utilizing the US PGA SHOTLINK data, a novel approach is undertaken in this paper, and finds some evidence of streaky play.
 
 ## References
-Bar-Eli, M., Avugos, S., & Raab, M. (2006). Twenty Years of “Hot Hand” Research: Review and Critique. Psychology of Sport and Exercise, 7(6), 525–553. [https://doi.org/10.1016/j.psychsport.2006.03.001](https://doi.org/10.1016/j.psychsport.2006.03.001)
+Bar-Eli, M., Avugos, S., & Raab, M. (2006). Twenty Years of “Hot Hand” Research: Review and Critique. _Psychology of Sport and Exercise, 7_(6), 525–553. [https://doi.org/10.1016/j.psychsport.2006.03.001](https://doi.org/10.1016/j.psychsport.2006.03.001)
 
-Clauset, A., Kogan, M., & Redner, S. (2015). Safe Leads and Lead Changes in Competitive Team Sports. Physical Review E, 91(6). [https://doi.org/10.1103/PhysRevE.91.062815](https://doi.org/10.1103/PhysRevE.91.062815)
+Clauset, A., Kogan, M., & Redner, S. (2015). Safe Leads and Lead Changes in Competitive Team Sports. _Physical Review E, 91_(6). [https://doi.org/10.1103/PhysRevE.91.062815](https://doi.org/10.1103/PhysRevE.91.062815)
 
-Gabel, A., & Redner, S. (2012). Random Walk Picture of Basketball Scoring. Journal of Quantitative Analysis in Sports, 8(1). [https://doi.org/10.1515/1559-0410.1416](https://doi.org/10.1515/1559-0410.1416)
+Gabel, A., & Redner, S. (2012). Random Walk Picture of Basketball Scoring. _Journal of Quantitative Analysis in Sports, 8_(1). [https://doi.org/10.1515/1559-0410.1416](https://doi.org/10.1515/1559-0410.1416)
 
-Martín-González, J. M., de Saá Guerra, Y., García-Manso, J. M., Arriaza, E., & Valverde-Estévez, T. (2016). The Poisson Model Limits in NBA Basketball: Complexity in Team Sports. Physica A: Statistical Mechanics and Its Applications, 464, 182–190. [https://doi.org/10.1016/j.physa.2016.07.028](https://doi.org/10.1016/j.physa.2016.07.028)
+Martín-González, J. M., de Saá Guerra, Y., García-Manso, J. M., Arriaza, E., & Valverde-Estévez, T. (2016). The Poisson Model Limits in NBA Basketball: Complexity in Team Sports. _Physica A: Statistical Mechanics and Its Applications, 464_, 182–190. [https://doi.org/10.1016/j.physa.2016.07.028](https://doi.org/10.1016/j.physa.2016.07.028)
 
-McGarry, T., Anderson, D. I., Wallace, S. A., Hughes, M. D., & Franks, I. M. (2002). Sport Competition as a Dynamical Self-organizing System. Journal of Sports Sciences, 20(10), 771–781. [https://doi.org/10.1080/026404102320675620](https://doi.org/10.1080/026404102320675620)
+McGarry, T., Anderson, D. I., Wallace, S. A., Hughes, M. D., & Franks, I. M. (2002). Sport Competition as a Dynamical Self-organizing System. _Journal of Sports Sciences, 20_(10), 771–781. [https://doi.org/10.1080/026404102320675620](https://doi.org/10.1080/026404102320675620)
 
-Merritt, S., & Clauset, A. (2014). Scoring dynamics across professional team sports: tempo, balance and predictability. EPJ Data Science, 3(1). [https://doi.org/10.1140/epjds29](https://doi.org/10.1140/epjds29)
+Merritt, S., & Clauset, A. (2014). Scoring dynamics across professional team sports: tempo, balance and predictability. _EPJ Data Science, 3_(1). [https://doi.org/10.1140/epjds29](https://doi.org/10.1140/epjds29)
 
 
