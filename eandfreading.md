@@ -27,12 +27,12 @@ The book also provides a great history of how the various theories became establ
 ## The Myth of the Rational Market
 ![Bubble](websiteimages/rational.jpg)
 
-GDiuqgwefi
+While this book covers similar ground as, _An Engine Not a Camera_, and _Forecast_, it is it is still well worth the read. It is certainly a lighter read but that is not to stay it does not provide valuable insights, and eloquently details the rise and fall of the EMH. While Fox admits that he did not set out with any prejudice or against the EMH, he does a convincing job of exposing it flaws. The key point of differentiation of the book is how it brings to life the people and ideas of modern finance starting with the formative days of Wall Street through the Great Depression and into today’s financial markets.
 
 ## Misbehaving
 ![Mis](websiteimages/MisBehave.jpg)
 
-GDiuqgwefi
+With Thaler finally (and deservedly) winning the Nobel Memorial Prize in Economic Sciences there is no argument that this book is essential reading. Thaler does an excellent job of translating his academic work into everyday terms, so the reader can easily comprehend the importance, and relevance of his work. The essence of his work being that humans are error-prone, and do not act in accordance with rational expectations doctrine of neo-classical economics. The consequences of this “misbehaving” for individuals, policymakers, and the economy is what the book details. Importantly, Thaler also enlightens readers about how to make smarter decisions and avoid the numerous biases that result in the misbehavior.
 
 ## Forecast
 ![Bubble](websiteimages/forecast.jpg)
