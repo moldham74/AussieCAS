@@ -2,7 +2,7 @@
 
 Congratualtions on finding your way to my website. I hope that you will find it's content interesting, revealing and most importantly you learn something. The site is a compilation of not only my work in the field of complexity/complex adaptive systems (CASs) and agent-based modelling (ABM) but also the works that served as inspiration for me along the way. I have provided numerous links to video's and reading which you will hopefully find useful.
 
-The website is updated regularly with new articles that I find and post on either my [Linkedin](https://www.linkedin.com/in/oldhamma) or [Twitter](https://twitter.com/maoldham74) sites. You may even wish to email me at oldhamma@gmail.com.
+The website is updated regularly with new articles that I find and post on either my <a href="https://www.linkedin.com/in/oldhamma" target="blank">Linkedin</a> or <a href="https://twitter.com/maoldham74" target="blank">Twitter</a> sites. You may even wish to email me at oldhamma@gmail.com.
 
 ## What you will find on my wesbite
 * **[_About me_](https://moldham74.github.io/AussieCAS/about.html)**: This page provides more details about me, including my academic and work background. I also provide a further explanation about what I am currently studying and why.
@@ -30,7 +30,7 @@ Here is a 10 minutes video that does a great job of explaining it.
 <iframe width="650" height="365" src="https://www.youtube.com/embed/vp8v2Udd_PM" frameborder="0" gesture="media" allowfullscreen></iframe>
 
 
-It is the presence of these unexpected emergent outcomes that underlies the need to gain a greater understanding of CAS. Classic examples of these emergent behavior is how communities becomes highly segregated despite the population not being predisposed to segregation (see Schelling  (1971), how birds form large flocks, traffic jams form and propagate, or how asset bubbles are created.
+It is the presence of these unexpected emergent outcomes that underlies the need to gain a greater understanding of CAS. Classic examples of these emergent behavior is how communities becomes highly segregated despite the population not being predisposed to segregation (see Schelling (1971), how birds form large flocks, traffic jams form and propagate, or how asset bubbles are created.
 
 In terms of complexity science, it is should be noted that it is not a theory per se but rather a movement in the sciences that studies how the interacting elements in a system create overall patterns, and how these overall patterns in turn cause the interacting elements to change or adapt.
 
@@ -39,7 +39,7 @@ Computational social science (CSS) is an exciting, and emerging discipline that 
 
 Within the CSS framework various computational and modelling tools have, and continue to be developed to understand and/or make predictions regarding social science issues. Examples of the techniques employed are: agent-based modelling, social network analysis, machine learning, content analysis and geographic information systems. It is by combining formalized theories and empirical research that has allowed researchers to study and further develop their understanding of social complexity, via methods not available elsewhere.
 
-I have provided the following video from the [2nd Annual International Conference on Computational Social Science](http://www.kellogg.northwestern.edu/news-events/conference/ic2s2/2016.aspx), hosted by the Kellogg School of Management, Northwestern University, to help explain what CSS is and is not. In the video, several speakers discuss the definition of CSS, with an important point being made by the first presenter, Duncan Watts, when he mentions that initially CSS revolved around simulations but it is now growing into a much larger and diverse field.
+I have provided the following video from the <a href="(http://www.kellogg.northwestern.edu/news-events/conference/ic2s2/2016.aspx" target="blank">2nd Annual International Conference on Computational Social Science</a>, hosted by the Kellogg School of Management, Northwestern University, to help explain what CSS is and is not. In the video, several speakers discuss the definition of CSS, with an important point being made by the first presenter, Duncan Watts, when he mentions that initially CSS revolved around simulations but it is now growing into a much larger and diverse field.
 
 <iframe width="650" height="365" src="https://www.youtube.com/embed/kyZkptxlSA8" frameborder="0" gesture="media" allowfullscreen></iframe>
 
