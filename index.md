@@ -2,7 +2,7 @@
 
 Congratualtions on finding your way to my website. I hope that you will find it's content interesting, revealing and most importantly you learn something. The site is a compilation of not only my work in the field of complexity/complex adaptive systems (CASs) and agent-based modelling (ABM) but also the works that served as inspiration for me along the way. I have provided numerous links to video's and reading which you will hopefully find useful.
 
-The website is updated regularly with new articles that I find and post on either my [Linkedin](https://www.linkedin.com/in/oldhamma" target="_blank) or [Twitter](https://twitter.com/maoldham74) sites. You may even wish to email me at oldhamma@gmail.com.
+The website is updated regularly with new articles that I find and post on either my [Linkedin](https://www.linkedin.com/in/oldhamma) or [Twitter](https://twitter.com/maoldham74) sites. You may even wish to email me at oldhamma@gmail.com.
 
 ## What you will find on my wesbite
 * **_About me_**: This page provides more details about me, including my academic and work background. I also provide a further explanation about what I am currently studying and why.
