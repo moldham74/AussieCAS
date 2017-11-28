@@ -56,7 +56,7 @@ The attraction of the book is that Tetlock, and coauthor Gardner, take now famil
 ## Why Stock Markets Crash 
 ![Bubble](websiteimages/whymarkets.gif)
 
-Sornette is 
+In a similar vein to Buchanan’s Forecast, Sornette firstly outlines the case against the incumbent theories before proposing a general theory of how, why, and when stock markets crash. He makes the strong point that most explanations other than cooperative self-organization fail to account for the subtle bubbles which are ultimately responsible for market crashes. The proposed theory borrows much from complex systems, and suggests that the underlying cause can be identified months and even years before a bubble appears. Beware that this book is a heavier read than most.
 
 ## The First Crash
 ![Bubble](websiteimages/south.gif)
