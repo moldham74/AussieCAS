@@ -49,7 +49,9 @@ GDiuqgwefi
 ## Superforecasting
 ![Bubble](websiteimages/super.jpg){: width="350px"}.
 
-GDiuqgwefi
+If I was to only recommend one book, then this it. After reading this book you will never listen to expert in the same way again! And more importantly you will change your approach to assessing things. You will also learn what it really means when someone tells you that Donald Trump has a 33% of winning an election.
+
+The attraction of the book is that Tetlock, and coauthor Gardner, take now familiar road of popularizing academic research to enlighten non-subject matter experts. The book draws on decades of research and the results of the Good Judgment Project, which showed that people tend to be poor forecasters. However, all is not lost and with the authors detailing  how you can become a good forecaster. 
 
 ## Why Stock Markets Crash 
 ![Bubble](websiteimages/whymarkets.gif)
