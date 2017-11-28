@@ -59,7 +59,7 @@ In a similar vein to Buchanan’s Forecast, Sornette firstly outlines the case a
 ## The First Crash
 ![Bubble](websiteimages/south.gif)
 
-GDiuqgwefi
+You would think that people would learn but the after reading this book it is clear they do not. The events surrounding the South Sea Bubble, including: the trading techniques (which included 'modern' transactions such as derivatives); the use of new data; and the neglected writings of financial analyst are deatiled in this great book. In delivering a concise and well researched history of the bubble the book provides key insights into the nature of financial markets, and the reasons why asset bubbles continue to come and go.  
 
 ## Butterfly Economics
 ![Bubble](websiteimages/butter.jpg){: width="350px"}.
