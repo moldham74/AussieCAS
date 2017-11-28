@@ -4,7 +4,7 @@ _"You can't score a goal if you don't take a shot"_  - Johan Cruyff
 
 ![Sport](websiteimages/bball.jpg)
 
-Sports analytics (SA) has experienced a meteoritic rise in recent years, with the trend forecast to continue. [Modor Intelligence](http://www.marketwatch.com/story/sports-analytics-market-growing-at-379-cagr-to-2021-2016-05-09-2203123) reports that the market was valued at USD 83.56 million in 2015, and is forecast to grow to USD 447.23 million by 2020. However, the growth was a long time in the making as the genesis of SA can be traced back over 50 years. The delayed adaption was partly due to the field being seen as frivolous and a hobby industry, and as told in Moneyball a reluctance of sporting organizations to include it in their decision-making.  However, this has now changed, with the only downside being that the innovative work is being carried out within the sports organizations with the work hidden from the public realm. However, this is changing given the massive amount of publicly available sporting data, and the field being taken seriously in the academic world.  
+Sports analytics (SA) has experienced a meteoritic rise in recent years, with the trend forecast to continue. <a href="http://www.marketwatch.com/story/sports-analytics-market-growing-at-379-cagr-to-2021-2016-05-09-2203123" target="blank">Modor Intelligence</a> reports that the market was valued at USD 83.56 million in 2015, and is forecast to grow to USD 447.23 million by 2020. However, the growth was a long time in the making as the genesis of SA can be traced back over 50 years. The delayed adaption was partly due to the field being seen as frivolous and a hobby industry, and as told in Moneyball a reluctance of sporting organizations to include it in their decision-making.  However, this has now changed, with the only downside being that the innovative work is being carried out within the sports organizations with the work hidden from the public realm. However, this is changing given the massive amount of publicly available sporting data, and the field being taken seriously in the academic world.  
 
 ## Sports as a complex system
 
@@ -21,7 +21,7 @@ The random walk process also implies that teams cannot get “hot” -- i.e., re
 
 ## My contributions
 
-As I have progressed through my Ph.D. studies I have managed to undertake several projects relating to sports and complex systems. In addition, I completed the wonder OR603 Sports Analytcis course, taught by [Brian Burke](http://espnmediazone.com/us/bios/brian-burke/) here at Mason.
+As I have progressed through my Ph.D. studies I have managed to undertake several projects relating to sports and complex systems. In addition, I completed the wonder OR603 Sports Analytcis course, taught by <a href="http://espnmediazone.com/us/bios/brian-burke/" target="blank">Brian Burke</a> at George Mason.
 
 ## Completed works
 ### Increasing competitiveness in Formula One
