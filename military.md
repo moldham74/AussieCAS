@@ -12,19 +12,20 @@ Combat particularly land combat, possess the characteristics of a complex adapti
 
 ## Examples of real-world military utlization
 
-The use of simulation in the military is not anything new. The rationale for using simulations is that you can not run combat experiments in peacetime. Further, even in conflict, the concept of designed experimentation is not practical. Some of the earliest examples of military simulations, that predate the compute, include:
+The use of simulation in the military is not anything new. The rationale for using simulations is that you can not run combat experiments in peacetime. Further, even in conflict, the concept of designed experimentation is not practical. Some of the earliest examples of military simulations, that predate the computer, include:
 
-  -  Germany's [Kriegspiel wargame](https://en.wikipedia.org/wiki/Kriegsspiel_(wargame)) that was developed in the 1812; and
+  -  Germany's <a href="https://en.wikipedia.org/wiki/Kriegsspiel_(wargame)" target="blank">Kriegspiel wargame</a> that was developed in the 1812; and
   -  U.S. Naval War College wargaming in 1930s.
   
-Lanchester equations Lanchester developed a mathematical model addressing the implications of various combat scenarios, including directed fire. . However, problems that can arise when simulating combat situations using the Lanchester models are spatially and temporally homogenous, allowing for no variation in unit type, terrain or tactics, command or control, skill or doctrine. These assumptions appear inconsistent with modern warfare, which is ultimately dynamic and heterogeneous, thus the need for alternative approach exists.
+Another advancement in military simulations was the introductions and acceptance of the Lanchester equations. The mathematical model provided expected losses under various combat scenarios, including directed fire. However, problems arise when simulating combat situations using the Lanchester models because they are spatially and temporally homogenous, allowing for no variation in unit type, terrain or tactics, command or control, skill or doctrine. These assumptions appear inconsistent with modern warfare, which is ultimately dynamic and heterogeneous, thus the need for alternative approach exists.
   
 With regard to the use of ABMs for the pruspose of combat simulation, numerous appeared in the 1990s, including;
+
    - ISAAC (Irreducible Semi-Autonomous Adaptive Combat) Model (1997) 
    - EINSTein (Enhanced ISAAC Neural Simulation Toolkit) Model (2000) 
    - Pythagoras agent-based combat model (c. 2002)
    
-Of these EINSTein, made the greatest contribution, summary of the project and its results are found in Ilachinski's book [Artificial War](http://www.worldscientific.com/worldscibooks/10.1142/5531). The purpose of the research was to explore the applicability of complex adaptive systems theory to the study of warfare, and introduces a sophisticated multiagent-based simulation of combat called EINSTein. EINSTein, whose bottom-up, generative approach to modeling combat stands in stark contrast to the top-down or reductionist philosophy that still underlies most conventional military models, is designed to illustrate how many aspects of land combat may be understood as self-organized, emergent phenomena. Used worldwide by the military operations research community, EINSTein has pioneered the simulation of combat on a small to medium scale by using autonomous agents to model individual behaviors and personalities rather than hardware.
+Of these EINSTein, made the greatest contribution, summary of the project and its results are found in Ilachinski's book <a href="http://www.worldscientific.com/worldscibooks/10.1142/5531" target="blank">Artificial War</a>. The purpose of the research was to explore the applicability of complex adaptive systems theory to the study of warfare, and introduces a sophisticated multiagent-based simulation of combat called EINSTein. EINSTein, whose bottom-up, generative approach to modeling combat stands in stark contrast to the top-down or reductionist philosophy that still underlies most conventional military models, is designed to illustrate how many aspects of land combat may be understood as self-organized, emergent phenomena. Used worldwide by the military operations research community, EINSTein has pioneered the simulation of combat on a small to medium scale by using autonomous agents to model individual behaviors and personalities rather than hardware.
 
 ## Examples of historical military utlization
 
@@ -51,7 +52,7 @@ After being tasked with implementing an ABM with a military theme in CSS739, I c
 The Churchillian quote "Never, in the field of human conflict, was so much owed by so many to so few", encapsulates perfectly the heroics of Royal Air Force (RAF) Fighter Command (FC) during the Battle of Britain. Despite the undoubted heroics, questions remain about how FC employed the "so few". In particular, the question as to whether FC should have employed the "Big Wing" tactics, as per 12 Group, or implement the smaller wings as per 11 Group, remains a source of much debate. In this paper, I create an agent based model (ABM) simulation of the Battle of Britain, which provides valuable insight into the key components that influenced the loss rates of both sides. It provides mixed support for the tactics employed by 11 Group, as the model identified numerous variables that impacted the success or otherwise of the British.
 
 ## References
-Scogings, C., & Hawick, K. (2012). An agent-based model of the Battle of Isandlwana (pp. 1–12)._ IEEE._ 
+Scogings, C., & Hawick, K. (2012). An agent-based model of the Battle of Isandlwana (pp. 1–12)._IEEE_. 
 <a href="https://doi.org/10.1109/WSC.2012.6465043" target="blank">https://doi.org/10.1109/WSC.2012.6465043</a>
 
 Trautteur, G., & Virgilio, R. (2003). An agent-based computational model for the Battle of Trafalgar: a comparison between analytical and simulative methods of research (pp. 377–382). _IEEE Comput. Soc_. <a href="https://doi.org/10.1109/ENABL.2003.1231440" target="blank">https://doi.org/10.1109/ENABL.2003.1231440</a>
