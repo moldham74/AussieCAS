@@ -19,8 +19,7 @@ The above animation plots the course of the S&P 500 as it heads towards, and the
 ## My contribution
 In my recent [journal articles](https://moldham74.github.io/AussieCAS/pub.html), I implemented and reported on an ABM that was capable of explaining why a market may behavior in the manner describded above. The key aspect aspect of the model was the ability of investors to consider the actions of their neighbors, thus point to another important field of research - network science. Ultimately, both papers report that the network topology that the investors form has a material effect on the behavior of the market. 
 
-The [first paper](http://doi.org/10.1142/S0219525917500072), looked in the effect of dividends on the market, while the [second paper](http://jasss.soc.surrey.ac.uk/20/4/13.html) introduced a mutliple risky asset model.
-
+The <a href="http://doi.org/10.1142/S0219525917500072" target="blank">first paper</a>, looked into the effect of dividends on the market, while the <a href="http://jasss.soc.surrey.ac.uk/20/4/13.html" target="blank">second paper</a> introduced a mutliple risky asset model.
 
 ## Markets and networks
 The case for the increasing utilization of network science within a complex system view of the economy comes from the fact that due to the increasing dependency between economic agents, it is becoming increasingly di±cult to predict and control the economy. In a more specific application of network science to  ̄financial markets, they have been able to explain trading decisions and portfolio performance  and networks have been found to exist between investors.
@@ -29,14 +28,14 @@ While the complete network configuration between investors may be all but imposs
 
 ![NetworkCartoon](websiteimages/cartoonOutput.gif)
 
-In my class project for CSS697 - Social Network Analysis, I managed to analysis the actual company x investor network for the S&P 500 and US instutional investors from 2007 to 2010. My findings can be found [here](papers/The quest for living beta.pdf). I presented the [findings](Presentations/NetSci2017.pptx) from the project at 2nd Workshop on Statistical Physics of Financial and Economic Networks satellie of the [NetSci2017](http://netsci2017.net/program/satellites) conference. 
+In my class project for CSS697 - Social Network Analysis, I managed to analysis the actual company x investor network for the S&P 500 and US instutional investors from 2007 to 2010. My findings can be found [here](papers/The quest for living beta.pdf). I presented the [findings](Presentations/NetSci2017.pptx) from the project at 2nd Workshop on Statistical Physics of Financial and Economic Networks satellie at the <a href="http://netsci2017.net/program/satellites" target="blank">NetSci2017</a> conference. 
 
 The key finding of the paper was that the density of the market moved in-line withe the index. The changes is the density can be seen in the diagram below, which shows how density of the company x investor network changed through time. An increasing density, being represented by a "darker" graph, and vice versa for a decline in density.
 
 ![LivingMarket](websiteimages/LivingOutput.gif)
 
 ## A great example
-I also found this great webpage over at the [Visual Capitalist](http://www.visualcapitalist.com) which covers complexity in financial markets.
+I also found this great webpage over at the <a href="http://www.visualcapitalist.com" target="blank">Visual Capitalist</a> which a great graphic regarding complexity in financial markets.
 
 <div style="clear:both"><a href="http://www.visualcapitalist.com/market-complexity-trigger-next-crash/"><img src="http://2oqz471sa19h3vbwa53m33yj.wpengine.netdna-cdn.com/wp-content/uploads/2017/09/infographic-market-complexity-next-crash.jpg" border="0" /></a></div><div>Courtesy of: <a href="http://www.visualcapitalist.com">Visual Capitalist</a></div>
 
