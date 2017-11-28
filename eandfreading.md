@@ -37,7 +37,9 @@ With Thaler finally (and deservedly) winning the Nobel Memorial Prize in Economi
 ## Forecast
 ![Bubble](websiteimages/forecast.jpg)
 
-GDiuqgwefi
+It is one thing to throw stones at the modern-day economics, but it’s another to propose an acceptable alternative. In his thought provoking book Buchanan achieves the later. 
+
+Buchanan firstly makes the argument that the economy does not operate in the manner as prescribed by classical economics but works more like our atmosphere, which is to say - a loose surface trying to balance itself against continually fluctuations. Then leaning on the concept of positive feedback mechanisms, which have been largely ignored in modern economics due to strong belief in markets finding and staying in equilibrium, a new approach to economics, including the integration of complex system theory is proposed. Well worth the read.
 
 ## The Mis(behavior) of Markets
 ![Bubble](websiteimages/misbevman.jpg)
