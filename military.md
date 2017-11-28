@@ -32,17 +32,17 @@ While the benefits of ABMs have not been fully exploited by today's miliary, his
 
 ### Battle of Trafalgar
 
-[Trautteur and Virgilio (2003)](papers/Trautteur2003.pdf) implemented an ABM that analyzed the famous naval [Battle of Trafalgar](https://en.wikipedia.org/wiki/Battle_of_Trafalgar). Features of the model, which all highlight the utility of ABMs, included area winds and local winds, two kinds of combat, four classes of ships, varying crew efficiency, etc. The ships “escaped” or surrendered based on their levels of casualties. Damage also played a part with ships either sunk or their performance diminished.
+[Trautteur and Virgilio (2003)](papers/Trautteur2003.pdf) implemented an ABM that analyzed the famous naval <a href="https://en.wikipedia.org/wiki/Battle_of_Trafalgar" target="blank">Battle of Trafalgar</a>. Features of the model, which all highlight the utility of ABMs, included area winds and local winds, two kinds of combat, four classes of ships, varying crew efficiency, etc. The ships “escaped” or surrendered based on their levels of casualties. Damage also played a part with ships either sunk or their performance diminished.
 
 The results agreed in a very strict way with historical data. A comparison between the computational model and Lanchester’s analytical model was also provided. In a key finding the forecasts from the Lanchester model were substantial different to the results obtained by the computational model - and the actual outcome. 
 
 ### Battle of Isandlwana
 
-[Scogings and Hawick (2012)](papers/Scogings2012.pdf) provided a simulation of the [Battle of Isandlwana](https://en.wikipedia.org/wiki/Battle_of_Isandlwana) with considerable historical accuracy. Additionally, altered the inputs to demonstrate a plausible alternative to history. The histrorical interest in the battle is that the British made a number of stratgeic errors including, underestimating the enemy, and overestimating the effectiveness of their weapons. This lead to poor defensive tactics by the British, which eventually saw their annihilation in the battle and their forced retreat.
+[Scogings and Hawick (2012)](papers/Scogings2012.pdf) provided a simulation of the <a href="https://en.wikipedia.org/wiki/Battle_of_Isandlwana" target="blank">Battle of Isandlwana</a> with considerable historical accuracy. Additionally, altered the inputs to demonstrate a plausible alternative to history. The histrorical interest in the battle is that the British made a number of stratgeic errors including, underestimating the enemy, and overestimating the effectiveness of their weapons. This lead to poor defensive tactics by the British, which eventually saw their annihilation in the battle and their forced retreat.
 
 ## My contribution
 
-After being tasked with implementing an ABM with a military theme in CSS739, I combined my love of World War II (WWII) history, and my new found knowledge of military simulation techniques. The result was my awarding winning (winner of the best paper at the 16th MABs confernce) To [Big Wing, or Not to Big Wing, Now an Answer](https://link.springer.com/chapter/10.1007/978-3-319-46882-2_5) paper. For this paper I lucky enough to lean on the previous work of the [York Historical Warfare Analysis Group](http://www-users.york.ac.uk/~nm15/ynt/YHWAG.html).
+After being tasked with implementing an ABM with a military theme in CSS739, I combined my love of World War II (WWII) history, and my new found knowledge of military simulation techniques. The result was my awarding winning (winner of the best paper at the 16th MABs confernce) <a href="https://link.springer.com/chapter/10.1007/978-3-319-46882-2_5" target="blank">To Big Wing, or Not to Big Wing, Now an Answer</a> paper. For this paper I lucky enough to lean on the previous work of the <a href="http://www-users.york.ac.uk/~nm15/ynt/YHWAG.html" target="blank">York Historical Warfare Analysis Group</a>.
 
 ### The Battle of Britian
 
@@ -51,7 +51,9 @@ After being tasked with implementing an ABM with a military theme in CSS739, I c
 The Churchillian quote "Never, in the field of human conflict, was so much owed by so many to so few", encapsulates perfectly the heroics of Royal Air Force (RAF) Fighter Command (FC) during the Battle of Britain. Despite the undoubted heroics, questions remain about how FC employed the "so few". In particular, the question as to whether FC should have employed the "Big Wing" tactics, as per 12 Group, or implement the smaller wings as per 11 Group, remains a source of much debate. In this paper, I create an agent based model (ABM) simulation of the Battle of Britain, which provides valuable insight into the key components that influenced the loss rates of both sides. It provides mixed support for the tactics employed by 11 Group, as the model identified numerous variables that impacted the success or otherwise of the British.
 
 ## References
-Scogings, C., & Hawick, K. (2012). An agent-based model of the Battle of Isandlwana (pp. 1–12). IEEE. [https://doi.org/10.1109/WSC.2012.6465043](https://doi.org/10.1109/WSC.2012.6465043)
+Scogings, C., & Hawick, K. (2012). An agent-based model of the Battle of Isandlwana (pp. 1–12)._ IEEE._ 
+<a href="https://doi.org/10.1109/WSC.2012.6465043" target="blank">https://doi.org/10.1109/WSC.2012.6465043</a>
 
-Trautteur, G., & Virgilio, R. (2003). An agent-based computational model for the Battle of Trafalgar: a comparison between analytical and simulative methods of research (pp. 377–382). IEEE Comput. Soc. [https://doi.org/10.1109/ENABL.2003.1231440](https://doi.org/10.1109/ENABL.2003.1231440)
+Trautteur, G., & Virgilio, R. (2003). An agent-based computational model for the Battle of Trafalgar: a comparison between analytical and simulative methods of research (pp. 377–382). _IEEE Comput. Soc_. <a href="https://doi.org/10.1109/ENABL.2003.1231440" target="blank">https://doi.org/10.1109/ENABL.2003.1231440</a>
+
 
