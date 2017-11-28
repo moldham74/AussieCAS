@@ -5,7 +5,7 @@ Congratualtions on finding your way to my website. I hope that you will find it'
 The website is updated regularly with new articles that I find and post on either my [Linkedin](https://www.linkedin.com/in/oldhamma) or [Twitter](https://twitter.com/maoldham74) sites. You may even wish to email me at oldhamma@gmail.com.
 
 ## What you will find on my wesbite
-* **_About me_**: This page provides more details about me, including my academic and work background. I also provide a further explanation about what I am currently studying and why.
+* **[_About me_](https://moldham74.github.io/AussieCAS/about.html)**: This page provides more details about me, including my academic and work background. I also provide a further explanation about what I am currently studying and why.
 
 * **_Research interests_**
 
