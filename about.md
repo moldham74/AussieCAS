@@ -3,7 +3,7 @@
 _"There is only one to avoid criticism: Do nothing, say nothing, and be nothing"_ - Aristotle 
 
 
-I am currently a Computational Social Science (CSS) Ph.D. student in the [Department of Computational and Data Sciences](https://cos.gmu.edu/cds/academic-programs/) at George Mason University. My advisor, [Professor Axtell](http://www.css.gmu.edu/~axtell/Rob/Home.html) is a leading expert in agent-based modelling (and most other things!). My original intention was to only complete my masters is CSS but as things turned out I am doing my Ph.D.. Being awarded a prestigious George Mason University Presidential scholarship is certainly a great help, and has provided me extensive freedom to research and explore a variety of topics as I progress through the Ph.D. program. 
+I am currently a Computational Social Science (CSS) Ph.D. student in the <a href="https://cos.gmu.edu/cds/academic-programs/" target="blank">Department of Computational and Data Sciences</a> at George Mason University. My advisor, <a href="http://www.css.gmu.edu/~axtell/Rob/Home.html" target="blank">Professor Axtell</a> is a leading expert in agent-based modelling (and most other things!). My original intention was to only complete my masters is CSS but as things turned out I am doing my Ph.D.. Being awarded a prestigious George Mason University Presidential scholarship is certainly a great help, and has provided me extensive freedom to research and explore a variety of topics as I progress through the Ph.D. program. 
 
 ![me](websiteimages/IoOutput.gif)
 
@@ -12,7 +12,7 @@ My research is focused on applying CSS for purpose of gaining a greater understa
 Thus, far my research has produced two publications relating to influence of investor networks on the behavior of stock markets, and one on innovation. These papers can be found on my publications page, while my economics and finance pages provide a detailed summary on my work and the justification for it. Beyond this I have implemented an ABM to explore the strategies used in the Battle of Britain, and have pioneered the use of ABMs for the use sports analytics.
 
 # Background
-If you are not that interested in reading the details here, you can check-out [my resume](Presentations/matthew-oldham-resume.pdf), or my [Linkedin profile](https://www.linkedin.com/in/oldhamma).
+If you are not that interested in reading the details here, you can check-out <a href="Presentations/matthew-oldham-resume.pdf" target="blank">my resume</a>, or my <a href="https://www.linkedin.com/in/oldhamma" target="blank">Linkedin</a>.
 
 ### Personal background
 I was born on the great island of Tasmania, which sits to the south of mainland Australia. Most people think not a lot happens in Tasmania but it was a great place to grow up. I made the big move to the mainland, where I lived in Melbourne following the completion of my initial tertiary studies. My family and I then made the big move to Fairfax, Virginia in 2014 where I started my current studies.
@@ -20,7 +20,7 @@ I was born on the great island of Tasmania, which sits to the south of mainland 
 ### Education
 My academic career originally commenced in Tasmania, where I attended the University of Tasmania and was awarded a Bachelors of Economics with honors in 1995. My honours thesis, following Schupeter's "creative destruction" investigated the relationship between market concentration and research and development (R&D) spending in Australia.
 
-I then put myself through the [Chartered Financial Analyst program](https://www.cfainstitute.org/programs/cfaprogram/Pages/index.aspx), earning my charter designation in 2012. However, my desire to continue my learning and to gain greater insights in CAS saw me enrol in the Masters of Arts in Interdisciplinary Studies with a concentration in Computational Social Science at George Mason in 2014. I was subsequently awarded my degree in 2016.
+I then put myself through the <a href="https://www.cfainstitute.org/programs/cfaprogram/Pages/index.aspx" target="blank">Chartered Financial Analyst program</a>, earning my charter designation in 2012. However, my desire to continue my learning and to gain greater insights in CAS saw me enrol in the Masters of Arts in Interdisciplinary Studies with a concentration in Computational Social Science at George Mason in 2014. I was subsequently awarded my degree in 2016.
 
 ### Work experience
 In bewteen my studies I have had exciting and varied professional career. After university I started work at Toyota Australia, and undertook numerous tasks including:
