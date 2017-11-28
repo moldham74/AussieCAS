@@ -2,7 +2,7 @@
 
 Below are the books that have been instrumental in guiding my thought process in terms of viewing finance and economics through a complex adaptive system (CAS) lense. The books are either a direct reference to a CAS or argue successfully that the neo-classical paradigm is flawed.
 
-some text with a link <a href="http://www.google.com" target="blank">google</a>
+some text with a link <a href="http://www.google.com" target="blank">google site</a>
 
 ## The Origin of Wealth
 ![Bubble](websiteimages/OofW.jpg)
