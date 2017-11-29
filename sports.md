@@ -10,7 +10,7 @@ Sports analytics (SA) has experienced a meteoritic rise in recent years, with th
 
 The consideration of sports being a complex adaptive system (CAS) is a newly established field of research. There are a host of papers ([Clauset, Kogan, & Redner (2015)](papers/Clauset.pdf), [Gabel & Redner (2012)](papers/Gabel.pdf), [Martín-González, et al. (2016)](papers/Gon.pdf), [McGarry, Anderson, Wallace, Hughes, & Franks (2002)](papers/McGarry.pdf), and [Merritt & Clauset (2014)](papers/Merritt.pdf)). One of the key ramification of the research, that comes from [Gabel and Redner (2012)](papers/Gabel.pdf), is that the scoring activity (lead changes, lead magnitude and the persistence of the lead) in a game of numerous sports follows a random-walk, with the exception being when a quarter comes to a close. At this point the distribution of the scoring activity becomes consistent what would be predicted by a power-law.
 
-If do not want to read these papers below is presentation from Sideny Redner explaining his work with sports as a CAS. The actual presentation starts at 4 minute mark.
+If do not want to read these papers below is presentation from Sidney Redner explaining his work with sports as a CAS. The actual presentation starts at the 4 minute mark.
 
 <iframe width="650" height="365" src="https://www.youtube.com/embed/HfVi6NiKxIw" frameborder="0" gesture="media" allowfullscreen></iframe>
 
@@ -21,13 +21,13 @@ The random walk process also implies that teams cannot get “hot” -- i.e., re
 
 ## My contributions
 
-As I have progressed through my Ph.D. studies I have managed to undertake several projects relating to sports and complex systems. In addition, I completed the wonder OR603 Sports Analytcis course, taught by <a href="http://espnmediazone.com/us/bios/brian-burke/" target="blank">Brian Burke</a> at George Mason.
+As I have progressed through my Ph.D. studies I have managed to undertake several projects relating to sports and complex systems. In addition, I completed the wonder OR603 Sports Analytics course, taught by <a href="http://espnmediazone.com/us/bios/brian-burke/" target="blank">Brian Burke</a> at George Mason.
 
 ## Completed works
 ### Increasing competitiveness in Formula One
-Evidence of a power law points to the existence of a complex system – a system that exhibits feedback loops, hierarchical organization and some degree of spontaneous order. Traditional models are ineffective in analyzing how and why these systems operate. The distribution of success in Formula One matches that of a power law but the question remains how and why? The key factors for success in Formula One appear to be financial and human resources. Through the use of an ABM I paper explored the likelihood that path dependence and increasing returns to scale are responsible for the presence of a power law in Formula One.
+Evidence of a power law points to the existence of a complex system – a system that exhibits feedback loops, hierarchical organization and some degree of spontaneous order. Traditional models are ineffective in analyzing how and why these systems operate. The distribution of success in Formula One matches that of a power law but the question remains how and why? The key factors for success in Formula One appear to be financial and human resources. Using an ABM I explored the likelihood that path dependence and increasing returns to scale are responsible for the presence of a power law in Formula One.
 
-## Works in the pipleine
+## Works in the pipeline
 
 ### ABM meets NBA
 To support the use of ABM in sports analytics, I created an ABM of a basketball game, where the fundamentals of play including player and court positions, a shot clock, and shooting performance are all included. Additionally, player behavior in deciding whether to shoot, pass or dribble is partially predicated on assessing the length of a player’s shooting streak (designed to test the hot-hand effect), and the consideration they give to any streak, plus their franchise status. The probabilistic nature of the model allows for insights into the dynamics of scoring actions following a random walk. The model captures extensive data which was used to calibrate and validate it against comparable statistics from the National Basketball Association (NBA).
