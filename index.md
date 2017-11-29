@@ -4,7 +4,7 @@ This site is a compilation of not only my work in the field of complexity/comple
 
 The website is updated regularly with new articles that I find and post on either my <a href="https://www.linkedin.com/in/oldhamma" target="blank">Linkedin</a> or <a href="https://twitter.com/maoldham74" target="blank">Twitter</a> sites. You may even wish to email me at oldhamma@gmail.com.
 
-## What you will find on my wesbite
+## What you will find on my website
 * **[_About me_](https://moldham74.github.io/AussieCAS/about.html)**: This page provides more details about me, including my academic and work background. I also provide a further explanation about what I am currently studying and why.
 
 * **_Research interests_**
@@ -13,7 +13,7 @@ The website is updated regularly with new articles that I find and post on eithe
   
   *  **[_Finance:_](https://moldham74.github.io/AussieCAS/finance.html)** There has been considerable effort, and success, in analyzing financial markets as a CAS. I provide some of the background and outline my work in the area;
   
-  *  **[_Sports:_](https://moldham74.github.io/AussieCAS/sports.html)** As sports analytics continues its meteoric growth, the availability of massive quanitities of data has enabled researchers to uncover the fact that certain sports may be CASs. I highlight some of the papers and provide an outline to my soon to be released basketball agent-based model;
+  *  **[_Sports:_](https://moldham74.github.io/AussieCAS/sports.html)** As sports analytics continues its meteoric growth, the availability of massive quantities  of data has enabled researchers to uncover the fact that certain sports may be CASs. I highlight some of the papers and provide an outline to my soon to be released basketball agent-based model;
   
   *  **[_Military Applications:_](https://moldham74.github.io/AussieCAS/military.html)** ABM has made a meaningful contribution to the defense sector. Here I touch on the background and present my contribution to the field.
   
@@ -23,9 +23,9 @@ The website is updated regularly with new articles that I find and post on eithe
 
 # Background
 ## What are complex adaptive systems, and why are they important?
-A CAS can be found anywhere from an ecological to an economic system. The key characteristics of these systems are that the agents, within the system ,interact in a non-linear fashion with other agents, and their environment. This results in complex collective behavior. That is a small number of rules applied locally are responsible for generating complex global phenomena. This is turn makes the system non-predictable beyond a certain temporal window. A key attribute of a CAS are emergent outcomes, which is when larger entities, patterns, and regularities arise through interactions among smaller or simpler entities that themselves do not exhibit such properties.
+A CAS can be found anywhere from an ecological to an economic system. The key characteristics of these systems are that the agents, within the system, interact in a non-linear fashion with other agents, and their environment. This results in complex collective behavior. That is a small number of rules applied locally are responsible for generating complex global phenomena. This is turn makes the system non-predictable beyond a certain temporal window. A key attribute of a CAS are emergent outcomes, which is when larger entities, patterns, and regularities arise through interactions among smaller or simpler entities that themselves do not exhibit such properties.
 
-Here is a 10 minutes video that does a great job of explaining it.
+Here is a 10 minute video that does a great job of explaining it.
 
 <iframe width="650" height="365" src="https://www.youtube.com/embed/vp8v2Udd_PM" frameborder="0" gesture="media" allowfullscreen></iframe>
 
@@ -44,7 +44,7 @@ I have provided the following video from the <a href="(http://www.kellogg.northw
 <iframe width="650" height="365" src="https://www.youtube.com/embed/kyZkptxlSA8" frameborder="0" gesture="media" allowfullscreen></iframe>
 
 ## What are agent-based models, and why use them?
-Herbert Simon, in his book The Sciences of the Artificial makes the point that complex adaptive systems are predisposed to simulation. The rationale being that one does not need to identify the properties of the all parts of a system in their entirety, if the goal is to understand how the parts organize themselves to create certain macro outcomes. In turn, these outcomes are likely to arise independently of all but a few properties of the individual components. The implication being that these macro outcomes need to be assessed from a bottom-up perspective. In trying to simulate these emergent processes researchers are required to make certain abstractions, with the intentive being to create a model of target that is simpler to study than the target itself.  
+Simon (1996) makes the point that complex adaptive systems are predisposed to simulation. The rationale being that one does not need to identify the properties of the all parts of a system in their entirety, if the goal is to understand how the parts organize themselves to create certain macro outcomes. In turn, these outcomes are likely to arise independently of all but a few properties of the individual components. The implication being that these macro outcomes need to be assessed from a bottom-up perspective. In trying to simulate these emergent processes researchers are required to make certain abstractions, with the intention being to create a model of target that is simpler to study than the target itself.  
 
 <iframe width="650" height="365" src="https://www.youtube.com/embed/stziwtQBrZ0" frameborder="0" gesture="media" allowfullscreen></iframe>
 
@@ -60,6 +60,3 @@ Axtell, R. (2000). Why agents?: on the varied motivations for agent computing in
 Schelling, T. C. (1971). Dynamic models of segregation. _Journal of Mathematical Sociology, 1_(2), 143-186.
 
 Simon, H. A. (1996). _The Sciences of the Artificial (3rd ed)._ Cambridge, Mass: MIT Press.
-
-
-
