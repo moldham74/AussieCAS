@@ -24,7 +24,7 @@ The website is updated regularly with new articles that I find and post on eithe
 
 * **[_Reading list:_](https://moldham74.github.io/AussieCAS/reading.html)** Along my learning journey I have managed to come across a variety of great books. In this section I highlight the books I found the most interesting. There is also a link to the various papers that I mention throughout my website.
 
-# Background
+# The background to this website
 ## What are complex adaptive systems, and why are they important?
 A CAS can be found anywhere from an ecological to an economic system. The key characteristics of these systems are that the agents, within the system, interact in a non-linear fashion with other agents, and their environment. This results in complex collective behavior. That is a small number of rules applied locally are responsible for generating complex global phenomena. This is turn makes the system non-predictable beyond a certain temporal window. A key attribute of a CAS are emergent outcomes, which is when larger entities, patterns, and regularities arise through interactions among smaller or simpler entities that themselves do not exhibit such properties.
 
