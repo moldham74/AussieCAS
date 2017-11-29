@@ -4,7 +4,7 @@ This site is a compilation of not only my work in the field of complexity/comple
 
 The website is updated regularly with new articles that I find and post on either my <a href="https://www.linkedin.com/in/oldhamma" target="blank">Linkedin</a> or <a href="https://twitter.com/maoldham74" target="blank">Twitter</a> sites. You may even wish to email me at oldhamma@gmail.com.
 
-## What you will find on my website
+## What you will find
 * **[_About me_](https://moldham74.github.io/AussieCAS/about.html)**: This page provides more details about me, including my academic and work background. I also provide a further explanation about what I am currently studying and why.
 
 * **_Research interests_**
