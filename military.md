@@ -43,7 +43,7 @@ The results agreed in a very strict way with historical data. A comparison betwe
 
 ## My contribution
 
-After being tasked with implementing an ABM with a military theme in CSS739, I combined my love of World War II (WWII) history, and my new found knowledge of military simulation techniques. The result was my awarding winning (winner of the best paper at the 16th MABs conference) <a href="https://link.springer.com/chapter/10.1007/978-3-319-46882-2_5" target="blank">To Big Wing, or Not to Big Wing, Now an Answer</a> paper. For this paper I was lucky enough to lean on the previous work of the <a href="http://www-users.york.ac.uk/~nm15/ynt/YHWAG.html" target="blank">York Historical Warfare Analysis Group</a>.
+After being tasked with implementing an ABM with a military theme in CSS739, I combined my love of World War II (WWII) history, and my new found knowledge of military simulation techniques. The result was my awarding winning (winner of the best paper at the 16th MABs conference) <a href="https://link.springer.com/chapter/10.1007/978-3-319-46882-2_5" target="blank">To Big Wing, or Not to Big Wing, Now an Answer</a> paper. For this paper, I was lucky enough to lean on the previous work of the <a href="http://www-users.york.ac.uk/~nm15/ynt/YHWAG.html" target="blank">York Historical Warfare Analysis Group</a>.
 
 ### The Battle of Britian
 
