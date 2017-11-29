@@ -5,45 +5,44 @@ Here is the list of other books that I have found fascinating and insightful.
 ## The Extra 2%
 ![2percent](websiteimages/Extra2.jpg){: width="350px"}.
 
-fgadgf
+Review forthcoming
 
 ## Scorecatsing
 ![score](websiteimages/score.jpg){: width="350px"}.
 
-fgadgf
+Review forthcoming
 
 ## Stumbling on Wins
 ![stumble](websiteimages/stumbling.jpg){: width="350px"}.
 
-fgadgf
+Review forthcoming
 
 ## Positive Linking
 ![linking](websiteimages/positive.jpg){: width="350px"}.
 
-fgadgf
+Review forthcoming
 
 ## Adapt
 ![Bubble](websiteimages/adapt.jpg){: width="350px"}.
 
-fgadgf
+Review forthcoming
 
 ## Messy
 ![Bubble](websiteimages/Messy.jpg){: width="350px"}.
 
-fgadgf
+Review forthcoming
 
 ## Why Most Things Fail
 ![Bubble](websiteimages/fail.jpg){: width="350px"}.
 
-fgadgf
-
+Review forthcoming
 
 ## Into the Black
 ![Bubble](websiteimages/Intotheblack.jpg){: width="350px"}.
 
-fgadgf
+Review forthcoming
 
 ## Skunk Works
 ![Bubble](websiteimages/skunk.jpg){: width="350px"}.
 
-fgadgf
+Review forthcoming
