@@ -3,7 +3,7 @@
 
 This page provides examples of my work that have been published or I have presented at a conference. I also provide a quick summary of the rationale for the paper and the key results, just in case you do not wish to read the whole thing.
 
-I have also provided the DOI for the publciation so you track down the official copy and cite it probably if you use it.
+I have also provided the DOI for the the publications so you track down the official copy and cite it probably.
 
 # Finance and Economics 
  
