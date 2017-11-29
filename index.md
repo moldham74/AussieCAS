@@ -1,8 +1,11 @@
 # This website
 
-This site is a compilation of not only my work in the field of complexity/complex adaptive systems (CASs) and agent-based modelling (ABM) but also the works that served as inspiration for me along the way. I have provided numerous links to video's and reading which you will hopefully find useful.
+This site is a compilation of not only my work in the field of complexity/complex adaptive systems (CASs) and agent-based modelling (ABM) but also the works that served as inspiration for me along the way. I have provided numerous links to video's and readings which you will hopefully find useful.
 
 The website is updated regularly with new articles that I find and post on either my <a href="https://www.linkedin.com/in/oldhamma" target="blank">Linkedin</a> or <a href="https://twitter.com/maoldham74" target="blank">Twitter</a> sites. You may even wish to email me at oldhamma@gmail.com.
+
+## Intoduction to the author
+
 
 ## What you will find
 * **[_About me_](https://moldham74.github.io/AussieCAS/about.html)**: This page provides more details about me, including my academic and work background. I also provide a further explanation about what I am currently studying and why.
@@ -25,7 +28,7 @@ The website is updated regularly with new articles that I find and post on eithe
 ## What are complex adaptive systems, and why are they important?
 A CAS can be found anywhere from an ecological to an economic system. The key characteristics of these systems are that the agents, within the system, interact in a non-linear fashion with other agents, and their environment. This results in complex collective behavior. That is a small number of rules applied locally are responsible for generating complex global phenomena. This is turn makes the system non-predictable beyond a certain temporal window. A key attribute of a CAS are emergent outcomes, which is when larger entities, patterns, and regularities arise through interactions among smaller or simpler entities that themselves do not exhibit such properties.
 
-Here is a 10 minute video that does a great job of explaining it.
+Here is a 10-minute video that does a great job of explaining it.
 
 <iframe width="650" height="365" src="https://www.youtube.com/embed/vp8v2Udd_PM" frameborder="0" gesture="media" allowfullscreen></iframe>
 
