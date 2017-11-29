@@ -4,22 +4,22 @@ _"In preparing for battle I have always found that plans are useless, but planni
 
 ![BattleofBritain](websiteimages/DSC_1028 (1).jpg)
 
-Agent-based models (ABMs) have been sucessfully applied to multiple research fields, with the application to military being one such field. While some of the applications are kept underwarps, this page provides a brief run down on the known appications of ABMs for military purposes. I also provide a brief run down on my contribution to the field. A lot of the information on this page came from Prof. Ken Comer's GMU CSS739 Agent-based Models: Military Applications course that was taught in the Fall of 2016.
+Agent-based models (ABMs) have been successfully applied to multiple research fields, with the application to military being one such field. While some of the applications are kept underwarps, this page provides a brief run down on the known applications of ABMs for military purposes. I also provide a brief run down on my contribution to the field. A lot of the information on this page came from Prof. Ken Comer's GMU CSS739 Agent-based Models: Military Applications course that was taught in the Fall of 2016.
 
 ## Why are ABMs applicable to military conflicts?
 
-Combat particularly land combat, possess the characteristics of a complex adaptive system (CAS). The justfication for conlcusion is based on the following: combat forces are composed of a large number of nonlinearly interacting parts and are organized in a dynamic command-and-control network; local action, which often appears disordered, self-organizes into long-range order; military conflicts, by their nature, proceed far from equilibrium; military forces adapt to a changing combat environment; and there is no master “voice” that dictates the actions of every soldier (i.e., battlefield action is decentralized). Nonetheless, it appears that most modern “state of the art” military simulations ignore the self-organizing properties of combat, hence the limited use of ABMs thus far in the field.
+Combat particularly land combat, possess the characteristics of a complex adaptive system (CAS). TThe justification for this statement is based on the following: combat forces are composed of a large number of nonlinearly interacting parts and are organized in a dynamic command-and-control network; local action, which often appears disordered, self-organizes into long-range order; military conflicts, by their nature, proceed far from equilibrium; military forces adapt to a changing combat environment; and there is no master “voice” that dictates the actions of every soldier (i.e., battlefield action is decentralized). Nonetheless, it appears that most modern “state of the art” military simulations ignore the self-organizing properties of combat, hence the limited use of ABMs thus far in the field.
 
-## Examples of real-world military utlization
+## Examples of real-world military utilization
 
-The use of simulation in the military is not anything new. The rationale for using simulations is that you can not run combat experiments in peacetime. Further, even in conflict, the concept of designed experimentation is not practical. Some of the earliest examples of military simulations, that predate the computer, include:
+The use of simulation in the military is not anything new. The rationale for using simulations is that you cannot run combat experiments in peacetime. Further, even in conflict, the concept of designed experimentation is not practical. Some of the earliest examples of military simulations, that predate the computer, include:
 
   -  Germany's <a href="https://en.wikipedia.org/wiki/Kriegsspiel_(wargame)" target="blank">Kriegspiel wargame</a> that was developed in the 1812; and
-  -  U.S. Naval War College wargaming in 1930s.
+  -  U.S. Naval War College war gaming in 1930s.
   
 Another advancement in military simulations was the introductions and acceptance of the Lanchester equations. The mathematical model provided expected losses under various combat scenarios, including directed fire. However, problems arise when simulating combat situations using the Lanchester models because they are spatially and temporally homogenous, allowing for no variation in unit type, terrain or tactics, command or control, skill or doctrine. These assumptions appear inconsistent with modern warfare, which is ultimately dynamic and heterogeneous, thus the need for alternative approach exists.
   
-With regard to the use of ABMs for the pruspose of combat simulation, numerous appeared in the 1990s, including;
+The use of ABMs combat simulation made first appeared in the 1990s, The known models include;
 
    - ISAAC (Irreducible Semi-Autonomous Adaptive Combat) Model (1997) 
    - EINSTein (Enhanced ISAAC Neural Simulation Toolkit) Model (2000) 
@@ -27,23 +27,23 @@ With regard to the use of ABMs for the pruspose of combat simulation, numerous a
    
 Of these EINSTein, made the greatest contribution, summary of the project and its results are found in Ilachinski's book <a href="http://www.worldscientific.com/worldscibooks/10.1142/5531" target="blank">Artificial War</a>. The purpose of the research was to explore the applicability of complex adaptive systems theory to the study of warfare, and introduces a sophisticated multiagent-based simulation of combat called EINSTein. EINSTein, whose bottom-up, generative approach to modeling combat stands in stark contrast to the top-down or reductionist philosophy that still underlies most conventional military models, is designed to illustrate how many aspects of land combat may be understood as self-organized, emergent phenomena. Used worldwide by the military operations research community, EINSTein has pioneered the simulation of combat on a small to medium scale by using autonomous agents to model individual behaviors and personalities rather than hardware.
 
-## Examples of historical military utlization
+## Examples of historical military utilization
 
-While the benefits of ABMs have not been fully exploited by today's miliary, historians have used them to great effect to reconstruct militaray campaigns for the purpose of what went right and wrong for the combatants. Two examples inlcude
+While the benefits of ABMs have not been fully exploited by today's military, historians have used them to great effect to reconstruct military campaigns to try and understand what went right and wrong for the combatants. Two examples include:
 
 ### Battle of Trafalgar
 
 [Trautteur and Virgilio (2003)](papers/Trautteur2003.pdf) implemented an ABM that analyzed the famous naval <a href="https://en.wikipedia.org/wiki/Battle_of_Trafalgar" target="blank">Battle of Trafalgar</a>. Features of the model, which all highlight the utility of ABMs, included area winds and local winds, two kinds of combat, four classes of ships, varying crew efficiency, etc. The ships “escaped” or surrendered based on their levels of casualties. Damage also played a part with ships either sunk or their performance diminished.
 
-The results agreed in a very strict way with historical data. A comparison between the computational model and Lanchester’s analytical model was also provided. In a key finding the forecasts from the Lanchester model were substantial different to the results obtained by the computational model - and the actual outcome. 
+The results agreed in a very strict way with historical data. A comparison between the computational model and Lanchester’s analytical model was also provided. In a key finding, the predictions from the Lanchester model were substantial different to the results obtained by the computational model - and the actual outcome. 
 
 ### Battle of Isandlwana
 
-[Scogings and Hawick (2012)](papers/Scogings2012.pdf) provided a simulation of the <a href="https://en.wikipedia.org/wiki/Battle_of_Isandlwana" target="blank">Battle of Isandlwana</a> with considerable historical accuracy. Additionally, altered the inputs to demonstrate a plausible alternative to history. The histrorical interest in the battle is that the British made a number of stratgeic errors including, underestimating the enemy, and overestimating the effectiveness of their weapons. This lead to poor defensive tactics by the British, which eventually saw their annihilation in the battle and their forced retreat.
+[Scogings and Hawick (2012)](papers/Scogings2012.pdf) provided a simulation of the <a href="https://en.wikipedia.org/wiki/Battle_of_Isandlwana" target="blank">Battle of Isandlwana</a> with considerable historical accuracy. Additionally, altered the inputs to demonstrate a plausible alternative to history. The historical interest in the battle is that the British made a number of strategic errors including, underestimating the enemy, and overestimating the effectiveness of their weapons. This lead to poor defensive tactics by the British, which eventually saw their annihilation in the battle and their forced retreat.
 
 ## My contribution
 
-After being tasked with implementing an ABM with a military theme in CSS739, I combined my love of World War II (WWII) history, and my new found knowledge of military simulation techniques. The result was my awarding winning (winner of the best paper at the 16th MABs confernce) <a href="https://link.springer.com/chapter/10.1007/978-3-319-46882-2_5" target="blank">To Big Wing, or Not to Big Wing, Now an Answer</a> paper. For this paper I was lucky enough to lean on the previous work of the <a href="http://www-users.york.ac.uk/~nm15/ynt/YHWAG.html" target="blank">York Historical Warfare Analysis Group</a>.
+After being tasked with implementing an ABM with a military theme in CSS739, I combined my love of World War II (WWII) history, and my new found knowledge of military simulation techniques. The result was my awarding winning (winner of the best paper at the 16th MABs conference) <a href="https://link.springer.com/chapter/10.1007/978-3-319-46882-2_5" target="blank">To Big Wing, or Not to Big Wing, Now an Answer</a> paper. For this paper I was lucky enough to lean on the previous work of the <a href="http://www-users.york.ac.uk/~nm15/ynt/YHWAG.html" target="blank">York Historical Warfare Analysis Group</a>.
 
 ### The Battle of Britian
 
