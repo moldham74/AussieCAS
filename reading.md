@@ -19,6 +19,8 @@ The link for my other reading list is [here](https://moldham74.github.io/AussieC
 
 The link for the various referenced papers is [here](https://moldham74.github.io/AussieCAS/ResearchPapers.html)
 
+The link to my collection of interesting articles [here](https://moldham74.github.io/AussieCAS/articles.html)
+
 Happy reading Matt.
 
  
