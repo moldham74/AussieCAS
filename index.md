@@ -1,4 +1,4 @@
-# This website
+# Purpose
 
 This website is a compilation of not only my work in the field of complexity/complex adaptive systems (CASs) and agent-based modelling (ABM) but also many of the works that have served as inspiration for me along the way. I have provided numerous links to video's and readings which you will hopefully find useful.
 
