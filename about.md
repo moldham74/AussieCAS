@@ -33,7 +33,7 @@ I then moved onto Ford Performance Vehicles where I helped run the sales and pro
 
 A career change beckoned, and I made the switch to finance when I joined Equity Trustees in 2006. Initially my work involved strategic planning and merger and acquisitions work. I was then lucky enough to join the equities team, where I was a buy-side analyst for a number of years. It was during this period when, searching for greater insights to help inform superior investment decisions, that I came across the field of complexity, and as they say the rest in history.
 
-### Eduation and work summary
+### Eduation summary
 
 - Computational Social Science PhD Program (Presidential Scholar)
 
@@ -49,10 +49,11 @@ UNIVERSITY OF TASMANIA| Hobart TAS, Australia | 1995
 
 - Chartered Financial Analyst, CFA Institute, 2012 
 
+### Work summary
 
-- Investment Analyst | Equity Trustees Limited (EQT), Melbourne, Australia | December 2008 – June 2014
+- Investment Analyst | Equity Trustees Limited, Melbourne, Australia | 2008 to 2014
 
-- Corporate Development Analyst | Equity Trustees Limited, Melbourne, Australia | August 2006 – December 2008
+- Corporate Development Analyst | Equity Trustees Limited, Melbourne, Australia | 2006 to 2008
 
 - Ford Performance Vehicles | Melbourne, Australia | 2003 to 2006
 
