@@ -4,7 +4,7 @@ _"In preparing for battle I have always found that plans are useless, but planni
 
 ![BattleofBritain](websiteimages/DSC_1028 (1).jpg)
 
-Agent-based models (ABMs) have been successfully applied to multiple research fields, with the application to the military being one such field. While some of the applications are kept underwarps, this page provides a brief run down on the known applications of ABMs for military purposes. I also provide a brief run down on my contribution to the field. A lot of the information on this page came from Prof. Ken Comer's GMU CSS739 Agent-based models: Military Applications course that was taught in the Fall of 2016.
+Agent-based models (ABMs) have been successfully applied to multiple research fields, with the application to the military being one such field. While some of the applications are kept under wraps, this page provides a brief run down on the known applications of ABMs for military purposes. I also provide a brief run down on my contribution to the field. A lot of the information on this page came from Prof. Ken Comer's GMU CSS739 Agent-based models: Military Applications course that was taught in the Fall of 2016.
 
 ## Why are ABMs applicable to military conflicts?
 
