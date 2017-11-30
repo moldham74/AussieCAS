@@ -2,10 +2,10 @@
 
 This website is a compilation of not only my work in the field of complexity/complex adaptive systems (CASs) and agent-based modelling (ABM) but also many of the works that have served as inspiration for me along the way. I have provided numerous links to videos and readings which I hope you will find useful.
 
-The website is updated regularly with new articles that I find and post on either my <a href="https://www.linkedin.com/in/oldhamma" target="blank">Linkedin</a> or <a href="https://twitter.com/maoldham74" target="blank">Twitter</a> sites. You may even wish to email me at oldhamma@gmail.com.
+The website is updated regularly with new [articles](/articles) that I find and post on either my <a href="https://www.linkedin.com/in/oldhamma" target="blank">Linkedin</a> or <a href="https://twitter.com/maoldham74" target="blank">Twitter</a> sites. You may even wish to email me at oldhamma@gmail.com.
 
-## Intoduction to the author
-
+## Introduction to the author
+To make more informed investment decisions in an increasingly complex world, I have returned to university to study the emerging field of Computational Social Science (CSS). In particular I want to apply new interdisciplinary methods to gain a greater understanding of how financial markets behave and to explore the dynamics driving innovation. The details of how and why are contained on this website.
 
 ## What you will find:
 * **[_About me_](https://moldham74.github.io/AussieCAS/about.html)**: This page provides more details about me, including my academic and work background. I also provide a further explanation about what I am currently studying and why.
