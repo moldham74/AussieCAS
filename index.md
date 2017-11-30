@@ -1,6 +1,6 @@
 # This website
 
-This site is a compilation of not only my work in the field of complexity/complex adaptive systems (CASs) and agent-based modelling (ABM) but also the works that served as inspiration for me along the way. I have provided numerous links to video's and readings which you will hopefully find useful.
+This website is a compilation of not only my work in the field of complexity/complex adaptive systems (CASs) and agent-based modelling (ABM) but also many of the works that have served as inspiration for me along the way. I have provided numerous links to video's and readings which you will hopefully find useful.
 
 The website is updated regularly with new articles that I find and post on either my <a href="https://www.linkedin.com/in/oldhamma" target="blank">Linkedin</a> or <a href="https://twitter.com/maoldham74" target="blank">Twitter</a> sites. You may even wish to email me at oldhamma@gmail.com.
 
@@ -10,13 +10,13 @@ The website is updated regularly with new articles that I find and post on eithe
 ## What you will find
 * **[_About me_](https://moldham74.github.io/AussieCAS/about.html)**: This page provides more details about me, including my academic and work background. I also provide a further explanation about what I am currently studying and why.
 
-* **_Research interests_**
+* **_My research interests_**
 
   *  **[_Economics:_](https://moldham74.github.io/AussieCAS/econ.html)** There are rich pickings in the terms of assessing the economy as a complex adaptive system (CAS). This section touches on the reasons why this. In addition, I provide an example of my work in the field;
   
   *  **[_Finance:_](https://moldham74.github.io/AussieCAS/finance.html)** There has been considerable effort, and success, in analyzing financial markets as a CAS. I provide some of the background and outline my work in the area;
   
-  *  **[_Sports:_](https://moldham74.github.io/AussieCAS/sports.html)** As sports analytics continues its meteoric growth, the availability of massive quantities  of data has enabled researchers to uncover the fact that certain sports may be CASs. I highlight some of the papers and provide an outline to my soon to be released basketball agent-based model;
+  *  **[_Sports:_](https://moldham74.github.io/AussieCAS/sports.html)** As sports analytics continues its meteoric growth, the availability of massive quantities  of data has enabled researchers to uncover the fact that certain sports may be CASs. I highlight some of the papers and provide an outline of my soon to be released basketball agent-based model;
   
   *  **[_Military Applications:_](https://moldham74.github.io/AussieCAS/military.html)** ABM has made a meaningful contribution to the defense sector. Here I touch on the background and present my contribution to the field.
   
@@ -38,9 +38,10 @@ It is the presence of these unexpected emergent outcomes that underlies the need
 In terms of complexity science, it is should be noted that it is not a theory per se but rather a movement in the sciences that studies how the interacting elements in a system create overall patterns, and how these overall patterns in turn cause the interacting elements to change or adapt.
 
 ## Why study Computational Social Science?
-Computational social science (CSS) is an exciting, and emerging discipline that is at the intersection of social science, math, and computer science. The intention of CSS is to utilize numerical models and data analytics to further our understanding of societies, markets, and human behavior. In contrast to traditional approaches to social science (e.g., inferential statistics, axiomatic modeling, or interviews), the computational approach present both unique opportunities and methodological challenges. For example, how should adaptive behavior be introduced? How do we evaluate policies and outcomes when decision makers are boundedly rational? How do avoid spurious inferences resulting from an over analysis of data?
+Computational social science (CSS) is an exciting, and emerging discipline that is at the intersection of social science, math, and computer science. The intention of CSS is to utilize numerical models and data analytics to further our understanding of societies, markets, and human behavior. In contrast to traditional approaches to social science (e.g., inferential statistics, axiomatic modeling, or interviews), the computational approach present both unique opportunities and methodological challenges. For example, how should adaptive behavior be introduced? How do we evaluate policies and outcomes when decision makers are boundedly rational? How do we avoid spurious inferences resulting from an over analysis of data? It is by combining formalized theories and empirical research that has allowed researchers to study and further develop their understanding of social complexity, via methods not available elsewhere.
 
-Within the CSS framework various computational and modelling tools have, and continue to be developed to understand and/or make predictions regarding social science issues. Examples of the techniques employed are: agent-based modelling, social network analysis, machine learning, content analysis and geographic information systems. It is by combining formalized theories and empirical research that has allowed researchers to study and further develop their understanding of social complexity, via methods not available elsewhere.
+
+Within the CSS framework various computational and modelling tools have, and continue to be developed to understand and/or make predictions regarding social science issues. Examples of the techniques employed are: agent-based modelling, social network analysis, machine learning, content analysis and geographic information systems. 
 
 I have provided the following video from the <a href="(http://www.kellogg.northwestern.edu/news-events/conference/ic2s2/2016.aspx" target="blank">2nd Annual International Conference on Computational Social Science</a>, hosted by the Kellogg School of Management, Northwestern University, to help explain what CSS is and is not. In the video, several speakers discuss the definition of CSS, with an important point being made by the first presenter, Duncan Watts, when he mentions that initially CSS revolved around simulations but it is now growing into a much larger and diverse field.
 
