@@ -27,6 +27,8 @@ As I have progressed through my Ph.D. studies I have managed to undertake severa
 ### Increasing competitiveness in Formula One
 Evidence of a power law points to the existence of a complex system – a system that exhibits feedback loops, hierarchical organization and some degree of spontaneous order. Traditional models are ineffective in analyzing how and why these systems operate. The distribution of success in Formula One matches that of a power law but the question remains: how and why? The obvious factors for success in Formula One are financial and human resources. Using an ABM the paper explores the likelihood that path dependence and increasing returns to scale are responsible for the presence of a power law in Formula One.
 
+My paper can be found [here](papers/F1 Final Paper M Oldham.pdf)
+
 ## Works in the pipeline
 
 ### ABM meets NBA
@@ -39,6 +41,8 @@ To assess the implications of a team’s belief in their franchise player, and a
 For all but a few superstars of golf, the secret to consistently low scores remains an unsolved mystery, with most golfers guided by the heuristic “drive for show, putt for dough.” This paper adds to the discussion of identifying the determinants of golf performance by attempting to quantify the effects that tee-shots have on finishing inside the top 5, 10 of a US PGA Tour tournament. This is achieved by employing numerous classifications models on a dataset from the US PGA Tour that includes the strokes-gained and driving rank metrics.
 
 The paper also investigates whether US PGA tour players exhibit “hot” or “cold” streaks from the tee. These streaks in general have become popularized as “hot” or “cold” hands, and relate to when a player has an identifiable run of performance above or below what is expected i.e., the player is “hot” or has gone “cold.” The existence of such events has generally been debunked, but by utilizing the US PGA SHOTLINK data, a novel approach is undertaken in this paper, and finds some evidence of streaky play.
+
+My initial paper can be found [here](papers/STAT515 Final Project Submission.pdf)
 
 ## References
 Bar-Eli, M., Avugos, S., & Raab, M. (2006). Twenty Years of “Hot Hand” Research: Review and Critique. _Psychology of Sport and Exercise, 7_(6), 525–553. [https://doi.org/10.1016/j.psychsport.2006.03.001](https://doi.org/10.1016/j.psychsport.2006.03.001)
