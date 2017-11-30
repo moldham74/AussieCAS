@@ -1,6 +1,6 @@
 # Purpose
 
-This website is a compilation of not only my work in the field of complexity/complex adaptive systems (CASs) and agent-based modelling (ABM) but also many of the works that have served as inspiration for me along the way. I have provided numerous links to videos and reading which you I hope you will find useful.
+This website is a compilation of not only my work in the field of complexity/complex adaptive systems (CASs) and agent-based modelling (ABM) but also many of the works that have served as inspiration for me along the way. I have provided numerous links to videos and readings which I hope you will find useful.
 
 The website is updated regularly with new articles that I find and post on either my <a href="https://www.linkedin.com/in/oldhamma" target="blank">Linkedin</a> or <a href="https://twitter.com/maoldham74" target="blank">Twitter</a> sites. You may even wish to email me at oldhamma@gmail.com.
 
