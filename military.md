@@ -25,7 +25,7 @@ The use of ABMs for the purpose of combat simulation first appeared in the 1990s
    - EINSTein (Enhanced ISAAC Neural Simulation Toolkit) Model (2000) 
    - Pythagoras agent-based combat model (c. 2002)
    
-Of these EINSTein, made the greatest contribution. A summary of the project and its results are found in <a href="http://www.worldscientific.com/worldscibooks/10.1142/5531" target="blank">Artificial War</a>. The purpose of the research was to explore the applicability of complex adaptive systems theory to the study of warfare, and introduces a sophisticated multiagent-based simulation of combat called EINSTein. EINSTein, whose bottom-up, generative approach to modeling combat stands in stark contrast to the top-down or reductionist philosophy that still underlies most conventional military models, is designed to illustrate how many aspects of land combat may be understood as self-organized, emergent phenomena. Used worldwide by the military operations research community, EINSTein has pioneered the simulation of combat on a small to medium scale by using autonomous agents to model individual behaviors and personalities rather than hardware.
+Of these EINSTein, made the greatest contribution. A summary of the project and its results are found in <a href="http://www.worldscientific.com/worldscibooks/10.1142/5531" target="blank">Artificial War</a>. The purpose of the research was to explore the applicability of complex adaptive systems theory to the study of warfare, and introduces a sophisticated multiagent-based simulation of combat called EINSTein. EINSTein, whose bottom-up, generative approach to modeling combat stands in stark contrast to the top-down or reductionist philosophy that still underlies most conventional military models, is designed to illustrate how many aspects of land combat may be understood as self-organized, emergent phenomena. 
 
 ## Examples of historical military utilization
 
@@ -33,7 +33,7 @@ While the benefits of ABMs have not been fully exploited by today's military, hi
 
 ### Battle of Trafalgar
 
-[Trautteur and Virgilio (2003)](papers/Trautteur2003.pdf) implemented an ABM that analyzed the famous naval <a href="https://en.wikipedia.org/wiki/Battle_of_Trafalgar" target="blank">Battle of Trafalgar</a>. Features of the model, which all highlight the utility of ABMs, included area winds and local winds, two kinds of combat, four classes of ships, varying crew efficiency, etc. The ships “escaped” or surrendered based on their levels of casualties. Damage also played a part with ships either sunk or their performance diminished.
+[Trautteur and Virgilio (2003)](papers/Trautteur2003.pdf) implemented an ABM that analyzed the famous naval <a href="https://en.wikipedia.org/wiki/Battle_of_Trafalgar" target="blank">Battle of Trafalgar</a>. Features of the model, which highlight the utility of ABMs, included area winds and local winds, two kinds of combat, four classes of ships, varying crew efficiency, etc. The ships “escaped” or surrendered based on their levels of casualties. Damage also played a part with ships either sunk or their performance diminished.
 
 The results of the model agreed in a very strict way with historical data. A comparison between the computational model and Lanchester’s analytical model was also provided. In a key finding, the predictions from the Lanchester model were substantial different to the results obtained by the computational model - and the actual outcome. 
 
