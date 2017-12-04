@@ -45,3 +45,7 @@ Simon, H. A. (1955). A Behavioral Model of Rational Choice. _The Quarterly Journ
 Tesfatsion, L., & Judd, K. L. (Eds.). (2006). _Handbook of Computational Economics_. Amsterdam Boston: Elsevier.
 
 Van Valen, L. (1973). A New Evolutionary Law. _Evolutionary Theory, 1_, 1–30.
+
+<!-- Start of SimpleHitCounter Code -->
+<div align="center"><a href="http://www.simplehitcounter.com" target="_blank"><img src="http://simplehitcounter.com/hit.php?uid=2323738&f=16777215&b=0" border="0" height="18" width="83" alt="web counter"></a><br><a href="http://www.simplehitcounter.com" target="_blank" style="text-decoration:none;">web counter</a></div>
+<!-- End of SimpleHitCounter Code -->
