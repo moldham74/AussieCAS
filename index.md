@@ -63,3 +63,7 @@ Axtell, R. (2000). Why agents?: on the varied motivations for agent computing in
 Schelling, T. C. (1971). Dynamic models of segregation. _Journal of Mathematical Sociology, 1_(2), 143-186.
 
 Simon, H. A. (1996). _The Sciences of the Artificial (3rd ed)._ Cambridge, Mass: MIT Press.
+
+<!-- Start of SimpleHitCounter Code -->
+<div align="center"><a href="http://www.simplehitcounter.com" target="_blank"><img src="http://simplehitcounter.com/hit.php?uid=2323738&f=16777215&b=0" border="0" height="18" width="83" alt="web counter"></a><br><a href="http://www.simplehitcounter.com" target="_blank" style="text-decoration:none;">web counter</a></div>
+<!-- End of SimpleHitCounter Code -->
