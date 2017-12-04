@@ -57,4 +57,6 @@ Scogings, C., & Hawick, K. (2012). An agent-based model of the Battle of Isandlw
 
 Trautteur, G., & Virgilio, R. (2003). An agent-based computational model for the Battle of Trafalgar: a comparison between analytical and simulative methods of research (pp. 377–382). _IEEE Comput. Soc_. <a href="https://doi.org/10.1109/ENABL.2003.1231440" target="blank">https://doi.org/10.1109/ENABL.2003.1231440</a>
 
-
+<!-- Start of SimpleHitCounter Code -->
+<div align="center"><a href="http://www.simplehitcounter.com" target="_blank"><img src="http://simplehitcounter.com/hit.php?uid=2323738&f=16777215&b=0" border="0" height="18" width="83" alt="web counter"></a><br><a href="http://www.simplehitcounter.com" target="_blank" style="text-decoration:none;">web counter</a></div>
+<!-- End of SimpleHitCounter Code -->
