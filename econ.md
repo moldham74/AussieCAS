@@ -19,7 +19,7 @@ Rather than bog everyone down with the inner workings of complexity economics, I
 
 <iframe width="650" height="365" src="https://www.youtube.com/embed/Lx-pRkp7pM8?list=PLZEkG3jP6eyl2CL8sDkCXjfvWO7_nbwsP" frameborder="0" gesture="media" allowfullscreen></iframe>
  
-As mentioned previously the use of ABMs has been the primary analytical tool utilized to research the economy as a complex system. The website of <a href="http://www2.econ.iastate.edu/tesfatsi/ace.htm" target="blank"> Leigh Tesfatsion</a> is a great resource. In addition, while a little dated, the Handbook of Computational Economics Volume 2 is an excellent resource.
+As mentioned previously the use of ABMs has been the primary analytical tool utilized to research the economy as a complex system. The website of <a href="http://www2.econ.iastate.edu/tesfatsi/ace.htm" target="blank"> Leigh Tesfatsion</a> is a great resource. The newest textbook in the field is from <a href="http://cress.soc.surrey.ac.uk/web/publications/books/agent-based-modelling-economics/more-information" target="blank"> Hamill & Gilbert (2015)</a>. In addition, while a little dated, the Handbook of Computational Economics Volume 2 is an excellent resource, with the various chapters providing overviews of how ABMs have been utilized in the various fields of economics. 
 
 ## My focus
 The utilization of complexity economics for the goal of understanding the process of innovation is of great interest to me, and in particular the process of “creative destruction” (Schumpeter, 1942). There is extensive research and theory relating to the way firms interact with other firms. However, the evolutionary aspect of these relationships remains outside the mainstream of economic research. 
@@ -36,11 +36,13 @@ Arthur, W. B. (2013). Complexity Economics: A Different Framework for Economic T
 
 Friedman, M. (1953). The Methodology of Positive Economics. In _Essays in Positive Economics (Vol. 3)_. Chicago, Ill.: University of Chicago Press.
 
+Hamill, L., & Gilbert, N. (2015). _Agent-Based Modelling in Economics: Hamill/Agent-Based Modelling in Economics_. Chichester, UK: John Wiley & Sons, Ltd. [https://doi.org/10.1002/9781118945520](https://doi.org/10.1002/9781118945520).
+
 Kirman, A. P. (1992). Whom or What Does the Representative Individual Represent? _Journal of Economic Perspectives, 6_(2), 117–136. [http://doi.org/10.1257/jep.6.2.117](http://doi.org/10.1257/jep.6.2.117)
 
 Schumpeter, J. A. (1942). _Capitalism, Socialism and Democracy_. New York: Harper and Row.
 
-Simon, H. A. (1955). A Behavioral Model of Rational Choice. _The Quarterly Journal of Economics, 69_(1), 99. [http://doi.org/10.2307/1884852](http://doi.org/10.2307/1884852)
+Simon, H. A. (1955). A Behavioral Model of Rational Choice. _The Quarterly Journal of Economics, 69_(1), 99. [http://doi.org/10.2307/1884852](http://doi.org/10.2307/1884852).
 
 Tesfatsion, L., & Judd, K. L. (Eds.). (2006). _Handbook of Computational Economics_. Amsterdam Boston: Elsevier.
 
