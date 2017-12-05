@@ -5,3 +5,9 @@
 <a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1740-9713.2017.01035.x/full" target="blank"> Bursting the big data bubble</a>
 
 <a href="https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/where-is-technology-taking-the-economy?cid=soc-web" target="blank"> Where is technology taking the economy?</a>
+
+<a href="https://www.autodeskresearch.com/publications/samestats" target="blank"> Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing?</a>
+
+<a href="http://evonomics.com/redefining-capitalism-eric-beinhocker-nick-hanauer/" target="blank"> Nick Hanauer and Eric Beinhocker: Capitalism Redefined</a>
+
+
