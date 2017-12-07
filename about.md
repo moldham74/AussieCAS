@@ -60,5 +60,6 @@ UNIVERSITY OF TASMANIA| Hobart TAS, Australia | 1995
 - Toyota Motor Corporation Australia Limited | Melbourne, Australia | 1996 to 2003
 
 <!-- Start of SimpleHitCounter Code -->
-<div align="center"><a href="http://www.simplehitcounter.com" target="_blank"><img src="http://simplehitcounter.com/hit.php?uid=2323738&f=16777215&b=0" border="0" height="18" width="83" alt="web counter"></a><br><a href="http://www.simplehitcounter.com" target="_blank" style="text-decoration:none;">web counter</a></div>
+<div align="center"><a href="http://www.simplehitcounter.com" target="_blank"><img src="http://simplehitcounter.com/hit.php?uid=2324961&f=16777215&b=0" border="0" height="18" width="83" alt="web counter"></a><br><a href="http://www.simplehitcounter.com" target="_blank" style="text-decoration:none;">web counter</a></div>
 <!-- End of SimpleHitCounter Code -->
+
