@@ -54,5 +54,5 @@ Mandelbrot, B. (1963). The Variation of Certain Speculative Prices. _The Journal
 Sornette, D. (2014). Physics and financial economics (1776–2014): puzzles, Ising and agent-based models. _Reports on Progress in Physics, 77_(6), 62001. [https://doi.org/10.1088/0034-4885/77/6/062001](https://doi.org/10.1088/0034-4885/77/6/062001)
 
 <!-- Start of SimpleHitCounter Code -->
-<div align="center"><a href="http://www.simplehitcounter.com" target="_blank"><img src="http://simplehitcounter.com/hit.php?uid=2323738&f=16777215&b=0" border="0" height="18" width="83" alt="web counter"></a><br><a href="http://www.simplehitcounter.com" target="_blank" style="text-decoration:none;">web counter</a></div>
+<div align="center"><a href="http://www.simplehitcounter.com" target="_blank"><img src="http://simplehitcounter.com/hit.php?uid=2324962&f=16777215&b=0" border="0" height="18" width="83" alt="web counter"></a><br><a href="http://www.simplehitcounter.com" target="_blank" style="text-decoration:none;">web counter</a></div>
 <!-- End of SimpleHitCounter Code -->
