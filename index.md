@@ -12,7 +12,7 @@ To make more informed investment decisions in an increasingly complex world, I h
 
 * **_My research interests_**
 
-  *  **[_Economics:_](https://moldham74.github.io/AussieCAS/econ.html)** o	There are rich pickings in terms of assessing the economy as a complex adaptive system (CAS). This page touches on the reasons for this. In addition, I provide an example of my work in the field.
+  *  **[_Economics:_](https://moldham74.github.io/AussieCAS/econ.html)** There are rich pickings in terms of assessing the economy as a complex adaptive system (CAS). This page touches on the reasons for this. In addition, I provide an example of my work in the field.
   
   *  **[_Finance:_](https://moldham74.github.io/AussieCAS/finance.html)** There has been considerable effort, and success, in analyzing financial markets as CASs. I provide some of the background and outline my work in the area on this page.
   
