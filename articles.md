@@ -10,4 +10,4 @@
 
 <a href="http://evonomics.com/redefining-capitalism-eric-beinhocker-nick-hanauer/" target="blank"> Nick Hanauer and Eric Beinhocker: Capitalism Redefined</a>
 
-
+<a href="https://www.theatlantic.com/science/archive/2018/01/evolutionary-economics/549725/" target="blank"> How Evolution Can Make Sense of the Stock Market</a>
