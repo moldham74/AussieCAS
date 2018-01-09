@@ -65,7 +65,8 @@ You would think that people would learn but the after reading this book it is cl
 ## Butterfly Economics
 ![Bubble](websiteimages/butter.jpg){: width="350px"}.
 
-Forthcoming
+With the book being published in 1999 it was well ahead of its time yet remains relevant today. 
+The proposition put forward by Ormerod in the book is that we should not view the economy as individuals who are isolated decision makers who act based their own preferences and circumstances but rather individuals interact when pursuing their interests, thereby gaining new information, which in turn influences their decision-making. In presenting the alternate approach ideas from biology, physics, artificial intelligence, and the behavioral sciences are utilized. Since this book there has been a steady stream of works that have shared this approach, many of which consider the economy as a complex adaptive system.
 
 ## The Death of Economics
 ![Bubble](websiteimages/death.jpg){: width="350px"}.
