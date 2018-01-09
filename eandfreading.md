@@ -41,7 +41,9 @@ Buchanan firstly makes the argument that the economy does not operate in the man
 ## The Mis(behavior) of Markets
 ![Bubble](websiteimages/misbevman.jpg)
 
-Forthcoming
+If you are remotely interested in the idea that financial markets operate outside the manner prescribed by Efficient Market Hypothesis (EMH), then this book is a must read. With the book being collaboration between Mandelbrot and Hudson (a journalist) it delivers an easy to comprehend introduction to a fractal view of the world of finance, and Mandelbrot’s life’s work. 
+
+By reading the book you will quickly gain an appreciation that the theories and practices stemming from the EMH are incomplete, and the risks faced by investors have been greatly underestimated. You may also ponder how and why Mandelbrot’s work was left unappreciated for so long, with the advent of GFC being the catalyst for the renewed interest in it.
 
 ## Superforecasting
 ![Bubble](websiteimages/super.jpg){: width="350px"}.
