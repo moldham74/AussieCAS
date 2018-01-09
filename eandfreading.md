@@ -65,15 +65,18 @@ You would think that people would learn but the after reading this book it is cl
 ## Butterfly Economics
 ![Bubble](websiteimages/butter.jpg){: width="350px"}.
 
-With the book being published in 1999 it was well ahead of its time yet remains relevant today. 
-The proposition put forward by Ormerod in the book is that we should not view the economy as individuals who are isolated decision makers who act based their own preferences and circumstances but rather individuals interact when pursuing their interests, thereby gaining new information, which in turn influences their decision-making. In presenting the alternate approach ideas from biology, physics, artificial intelligence, and the behavioral sciences are utilized. Since this book there has been a steady stream of works that have shared this approach, many of which consider the economy as a complex adaptive system.
+The book is a solid introduction into the argument that the field of economics needs to expand its framework. With the book being published in 1999 it was well ahead of its time yet remains relevant today. 
+
+The proposition put forward by Ormerod is that we should not view the economy as individuals who are isolated decision makers who act based their own preferences and circumstances but rather individuals interact when pursuing their interests, thereby gaining new information, which in turn influences their decision-making. The relevance of the butterfly is that there many insect-related metaphors are utilized to explain how the economy tends to function like a living organism and is thus able to learn and to adapt.
 
 ## The Death of Economics
 ![Bubble](websiteimages/death.jpg){: width="350px"}.
 
-Forthcoming
+Firstly, the book provides a concise critique of neoclassical economics and the assumptions it's predicated on. Next Ormerod presents an alternate approach whether ideas from biology, physics, artificial intelligence, and the behavioral sciences are utilized. The rationale is that the economy should be view more as ecology than a physical system.
+
+Since this book there has been a steady stream of works that have shared this approach, many of which consider the economy as a complex adaptive system.
 
 ## Adaptive Markets: Financial Evolution at the Speed of Thought
 ![Bubble](websiteimages/Adap.jpg){: width="350px"}.
 
-Forthcoming
+Review forthcoming.
