@@ -14,7 +14,6 @@ Unlike popularized books, such as Mis(behaving) and Superforecasting, this book 
 
 The basis of all the papers are that the economy is always in process, always changing and people try to make sense of the situations they face using whatever reasoning they have at hand, and together create outcomes they must individually. This contrasted to the standard view where people are assumed to face well-defined problems and use perfect deductive reasoning to base their actions on. The paper cover topics as disparate as how markets form out of beliefs; how technology evolves over the long span of time; why systems and bureaucracies get more complicated as they evolve; and how financial crises can be foreseen and prevented in the future.
 
-
 ## An Engine not a Camera
 ![Bubble](websiteimages/imagecamera.jpg){: width="350px"}.
 
@@ -42,7 +41,7 @@ Buchanan firstly makes the argument that the economy does not operate in the man
 ## The Mis(behavior) of Markets
 ![Bubble](websiteimages/misbevman.jpg)
 
-GDiuqgwefi
+Forthcoming
 
 ## Superforecasting
 ![Bubble](websiteimages/super.jpg){: width="350px"}.
@@ -64,5 +63,14 @@ You would think that people would learn but the after reading this book it is cl
 ## Butterfly Economics
 ![Bubble](websiteimages/butter.jpg){: width="350px"}.
 
+Forthcoming
+
 ## The Death of Economics
 ![Bubble](websiteimages/death.jpg){: width="350px"}.
+
+Forthcoming
+
+## Adaptive Markets: Financial Evolution at the Speed of Thought
+![Bubble](websiteimages/Adap.jpg){: width="350px"}.
+
+Forthcoming
