@@ -48,7 +48,7 @@ Review forthcoming
 Review forthcoming
 
 ## Fifty Things that Made the Modern Economy
-![Bubble](websiteimages/tower.jpg){: width="350px"}.
+![Bubble](websiteimages/fifty.jpg){: width="350px"}.
 
 Review forthcoming
 
