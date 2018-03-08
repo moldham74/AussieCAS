@@ -47,7 +47,9 @@ GEORGE MASON UNIVERSITY | Fairfax, VA | 2016
 
 UNIVERSITY OF TASMANIA| Hobart TAS, Australia | 1995
 
-- Chartered Financial Analyst, CFA Institute, 2012 
+- Chartered Financial Analyst, 
+
+CFA INSTITUTE | 2012 
 
 ### Work summary
 
