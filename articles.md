@@ -11,3 +11,5 @@
 <a href="http://evonomics.com/redefining-capitalism-eric-beinhocker-nick-hanauer/" target="blank"> Nick Hanauer and Eric Beinhocker: Capitalism Redefined</a>
 
 <a href="https://www.theatlantic.com/science/archive/2018/01/evolutionary-economics/549725/" target="blank"> How Evolution Can Make Sense of the Stock Market</a>
+
+<a href="https://cacm.acm.org/magazines/2018/3/225484-computational-social-science-computer-science-social-data/fulltext#.WpV3eL2C8T0.twitter" target="blank"> Computational Social Science ≠ Computer Science + Social Data</a>
