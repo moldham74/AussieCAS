@@ -26,7 +26,7 @@ While the complete network configuration between investors may be all but imposs
 
 ![NetworkCartoon](websiteimages/cartoonOutput.gif)
 
-In my class project for CSS697 - Social Network Analysis, I managed to analyze the actual company x investor network for the S&P 500 and US institutional investors from 2007 to 2010. My findings can be found [here](papers/The quest for living beta.pdf). I presented the [findings](Presentations/NetSci2017.pptx) from the project at the 2nd Workshop on Statistical Physics of Financial and Economic Networks satellite at the <a href="http://netsci2017.net/program/satellites" target="blank">NetSci2017</a> conference. 
+In my class project for CSS697 - Social Network Analysis, I managed to analyze the actual company x investor network for the S&P 500 and US institutional investors from 2007 to 2010. I presented the [findings](Presentations/NetSci2017.pptx) from the project at the 2nd Workshop on Statistical Physics of Financial and Economic Networks satellite at the <a href="http://netsci2017.net/program/satellites" target="blank">NetSci2017</a> conference. I also published the findings in the <a href="https://doi.org/10.21314/JNTF.2018.041" target="blank">Journal of Network Theory in Finance</a>.
 
 The key finding of the paper was that the density of the market moved inline with the index. The changes in the density of the company x investor network through time can be seen in the graph below. An increasing density, is represented by a "darker" graph, and vice versa for a decline in density.
 
