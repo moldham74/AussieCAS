@@ -12,7 +12,7 @@ My research is focused on applying CSS for the purpose of gaining a greater unde
 Thus far my research has produced two publications relating to the influence of investor networks on the behavior of stock markets, and another on innovation. These papers can be found on my publications page, while my economics and finance pages provide a detailed summary of my work and the justification for it. Beyond this I have implemented an ABM to explore the strategies used in the Battle of Britain, and have pioneered the use of ABMs for use in sports analytics.
 
 # Background
-If you are not that interested in reading the details here, you can check-out <a href="Presentations/matthew-oldham-resume.pdf" target="blank">my resume</a>, or my <a href="https://www.linkedin.com/in/oldhamma" target="blank">Linkedin</a> profile.
+If you are not that interested in reading the details here, you can check-out <a href="Presentations/mao_compecon.pdf" target="blank">my resume</a>, or my <a href="https://www.linkedin.com/in/oldhamma" target="blank">Linkedin</a> profile.
 
 ### Personal background
 I was born on the great island of Tasmania, which sits to the south of mainland Australia. Most people think not a lot happens in Tasmania but it was a great place to grow up. I made the big move to the mainland, where I lived in Melbourne following the completion of my initial tertiary studies. My family and I then made the big move to Fairfax, Virginia, in 2014 where I started my current studies.
