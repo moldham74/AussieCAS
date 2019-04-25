@@ -3,7 +3,7 @@
 _"There is only one to avoid criticism: Do nothing, say nothing, and be nothing"_ - Aristotle 
 
 
-I recently earnt my Ph.D. in Computational Social Science (CSS) Ph.D. <a href="https://cos.gmu.edu/cds/academic-programs/" target="blank">Department of Computational and Data Sciences</a> from George Mason University. My adviser, <a href="http://www.css.gmu.edu/~axtell/Rob/Home.html" target="blank">Professor Axtell</a>, is a leading expert in agent-based modelling (ABM), and most other things as well. My original intention was to only complete my masters in CSS but as things turned out I took on the challenge of earning a Ph.D.. Being awarded a prestigious George Mason University Presidential scholarship was certainly a great help, and provided me extensive freedom to research and explore a variety of topics as I progressed through the Ph.D. program. 
+I recently earnt my Ph.D. in Computational Social Science (CSS) Ph.D. through the <a href="https://cos.gmu.edu/cds/academic-programs/" target="blank">Department of Computational and Data Sciences</a> at George Mason University. My adviser, <a href="http://www.css.gmu.edu/~axtell/Rob/Home.html" target="blank">Professor Axtell</a>, is a leading expert in agent-based modelling (ABM), and most other things as well. My original intention was to only complete my masters in CSS but as things turned out I took on the challenge of earning a Ph.D.. Being awarded a prestigious George Mason University Presidential scholarship was certainly a great help, and provided me extensive freedom to research and explore a variety of topics as I progressed through the Ph.D. program. 
 
 ![me](websiteimages/IoOutput.gif)
 
