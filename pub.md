@@ -43,7 +43,7 @@ A copy of the paper can be found <a href="papers/MAO_ATC_BBSCS19_V4.pdf" target=
 ## To Big Wing, or Not to Big Wing, Now an Answer
 The Churchillian quote “Never,in the field of humanconflict, was so much owed by so many to so few”, encapsulates perfectly the heroics of Royal Air Force (RAF) Fighter Command (FC) during the Battle of Britain. Despite the undoubted heroics, questions remain about how FC employed the ‘so few’. In particular, the question as to whether FC should have employed the ‘Big Wing’ tactics, as per 12 Group, or implement the smaller wings as per 11 Group, remains a source of much debate. In this paper, I create an agent-based model (ABM) simulation of the Battle of Britain, which provides valuable insight into the key components that influenced the loss rates of both sides. It provides mixed support for the tactics employed by 11 Group, as the model identified numerous variables that impacted the success or otherwise of the British.
 
-A copy of the paper can be <a href="http://link.springer.com/chapter/10.1007/978-3-319-46882-2_5" target="blank">found here</a>. The DOI for the paper is 10.1007/978-3-319-46882-2_5.
+A copy of the paper can be <a href="papers/best-paper.pdf" target="blank">found here</a>. The DOI for the paper is 10.1007/978-3-319-46882-2_5.
 
 # Conference Presentations
 
